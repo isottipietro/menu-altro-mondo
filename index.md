@@ -1,6 +1,6 @@
 ---
-layout: menu
-title: Sagra Etnica e Solidale
+layout: home
+title: VEN 9
 description: Un viaggio tra i sapori del mondo e la solidarietà
 ---
 
