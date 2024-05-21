@@ -54,7 +54,7 @@ body {
 }
 @keyframes header-shrink {
 	from {
-		height: 94vh;
+		height: 84vh;
 	}
 	to {
 		height: 10vh;
@@ -82,7 +82,7 @@ header {
     align-items: center;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 94vh;
+    animation-range: 0vh 84vh;
     z-index: 1;
 }
 
@@ -162,7 +162,7 @@ footer p {
 }
 
 main {
-    margin-top: 110vh;
+    margin-top: 94vh;
     margin-bottom: 6vh;
 }
 
@@ -227,7 +227,7 @@ menu {
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 94vh;
+    animation-range: 0vh 84vh;
     margin: 0;
     z-index: 0;
     scroll-snap-align: start;
