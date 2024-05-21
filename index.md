@@ -1,6 +1,6 @@
 ---
 layout: home
-title: VEN 9
+title: Venerdì 9
 description: Scopri la cena ghanese e le altre cose della cucina
 ---
 
