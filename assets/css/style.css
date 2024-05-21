@@ -21,6 +21,8 @@ header {
     top: 0;
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 header h1 {
@@ -41,6 +43,9 @@ header p {
     max-width: 20%;
     display: flex;
     align-items: center;;
+}
+#info {
+    max-width: 100%;
 }
 
 footer {
