@@ -224,7 +224,7 @@ menu {
     position: sticky;
     background-color: #f39c34;
     top: 10vh;
-    margin: 0;
+    margin: 0 0 10px;
     z-index: 1;
     scroll-snap-align: start;
 }
