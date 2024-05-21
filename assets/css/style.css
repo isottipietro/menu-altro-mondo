@@ -130,3 +130,7 @@ img {
     width: 1.4em;
     padding: 0 0.3em;
 }
+
+.menu ul {
+    padding: 1em;
+}
