@@ -90,12 +90,12 @@ header h1 {
     margin: 0;
     text-align: center;
     padding: 0.2em;
-    max-width: 50%;
-    font-size: 4.5em;
+    max-width: 100%;
+    font-size: 6em;
     font-weight: normal;
     animation: header-shrink-logo linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 80vh;
+    animation-range: 20vh 60vh;
 }
 
 header p {
@@ -108,7 +108,7 @@ header p {
 .shrink {
     animation: header-shrink-data linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 80vh;
+    animation-range: 20vh 60vh;
 }
 
 .disappear {
