@@ -172,6 +172,7 @@ main h2 {
     color: #fff;
     padding: 1em 1.5em;
     margin: 0;
+    scroll-snap-align: start;
 }
 h2.anchor {
     display: block;
@@ -236,7 +237,6 @@ menu {
 
 .menu ul {
     padding: 1em;
-    scroll-snap-align: start;
 }
 
 .bounce {
