@@ -7,12 +7,15 @@ description: Un viaggio tra i sapori del mondo e la solidarietà
 ## Antipasti ##
 - **Bruschette al pomodoro** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
   - Allergeni: Glutine
+  - 8€
 
 - **Bruschette al sugo** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
   - Allergeni: Glutine
+  - 12€
 
 - **Bruschette alla marmellata** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
   - Allergeni: Glutine
+  -5€
 
 ## Primi Piatti ##
 - **Couscous alla marocchina** - Couscous con verdure e spezie tradizionali
