@@ -89,6 +89,12 @@ header p {
     animation-range: 0vh 50vh;
 }
 
+#disappear {
+    animation: disappear linear forwards;
+	animation-timeline: scroll();
+    animation-range: 0vh 50vh;
+}
+
 footer {
     position: fixed;
     left: 0;
@@ -161,11 +167,12 @@ img {
 
 menu {
     position: sticky;
-    top: 50vh;
+    top: 90vh;
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
     animation-range: 0vh 50vh;
+    margin: 0;
 }
 .menu {
     display: flex;
