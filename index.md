@@ -1,6 +1,6 @@
 ---
 layout: home
-title: VEN 9
+title: MENU' VEN 9
 description: Un viaggio tra i sapori del mondo e la solidarietà
 ---
 
