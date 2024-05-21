@@ -3,7 +3,7 @@
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 9rem;
+    scroll-padding-top: 8.5rem;
     scroll-snap-type: y proximity;
   }
 
@@ -223,7 +223,7 @@ img {
 menu {
     position: sticky;
     background-color: #f39c34;
-    top: 10vh;
+    top: 9.5vh;
     margin: 0 0 10px;
     z-index: 1;
     /*scroll-snap-align: start;*/
