@@ -250,6 +250,10 @@ menu {
     color: #333;
 }
 
+.menu :target {
+    border-color: #a52710;
+}
+
 .bounce {
     animation: bounce 2s ease infinite;
   }
