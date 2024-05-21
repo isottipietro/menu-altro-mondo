@@ -37,10 +37,9 @@ h1 {
     max-width: 60%;
 }
 
-header.p {
+header p {
     text-align: right;
     font-size: 0.6em;
-    font-family: 'Dirty Ego';
 }
 
 main {
