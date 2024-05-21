@@ -54,7 +54,7 @@ body {
 }
 @keyframes header-shrink {
 	from {
-		height: 84vh;
+		height: 94vh;
 	}
 	to {
 		height: 10vh;
@@ -82,7 +82,7 @@ header {
     align-items: center;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 84vh;
+    animation-range: 0vh 81vh;
     z-index: 1;
 }
 
@@ -227,7 +227,7 @@ menu {
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 84vh;
+    animation-range: 0vh 81vh;
     margin: 0;
     z-index: 0;
     scroll-snap-align: start;
