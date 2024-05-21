@@ -110,6 +110,7 @@ header p {
 	animation-timeline: scroll();
     animation-range: 0vh 50vh;
     width: 100%;
+    margin: 0;
 }
 #title {
     display: flex;
