@@ -46,6 +46,7 @@ header h1 {
     font-weight: normal;
     animation: header-shrink-logo linear forwards;
 	animation-timeline: scroll();
+    animation-range: 0vh 50vh;
 }
 
 header p {
