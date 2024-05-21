@@ -19,7 +19,7 @@ body {
 	}
 	to {
 		font-size: 2.1em;
-        max-width: 35%;
+        max-width: 40%;
 	}
 }
 @keyframes header-shrink-data {
@@ -61,6 +61,7 @@ body {
 	}
 	to {
 		flex-direction: row;
+        justify-content: space-between;
 	}
 }
 
