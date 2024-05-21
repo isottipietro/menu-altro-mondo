@@ -175,7 +175,7 @@ main h2 {
 h2.anchor {
     display: block;
     position: relative;
-    top: -10vh;
+    top: -20vh;
     visibility: hidden;
 }
 ul {
