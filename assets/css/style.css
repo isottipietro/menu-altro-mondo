@@ -20,6 +20,9 @@ header {
     color: white;
     padding: 1em;
     text-align: center;
+    position: fixed;
+    width: 100%;
+    transition: 0.2s;
 }
 
 h1 {
