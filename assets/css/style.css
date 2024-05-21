@@ -158,7 +158,7 @@ img {
 
 @keyframes menu-traspose {
 	from {
-		top: 50vh;
+		top: 80vh;
 	}
 	to {
         top: 10vh;
@@ -167,7 +167,7 @@ img {
 
 menu {
     position: sticky;
-    top: 90vh;
+    top: 80vh;
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
