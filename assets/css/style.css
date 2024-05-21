@@ -131,6 +131,23 @@ img {
     padding: 0 0.3em;
 }
 
+@keyframes menu-traspose {
+	from {
+		top: 50vh;
+	}
+	to {
+        top: 10vh;
+	}
+}
+
+menu {
+    position: sticky;
+    top: 50vh;
+    background-color: #f39c34;
+    animation: menu-traspose linear forwards;
+	animation-timeline: scroll();
+    animation-range: 0vh 50vh;
+}
 .menu {
     display: flex;
     overflow-x: scroll;
