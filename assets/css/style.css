@@ -226,7 +226,7 @@ menu {
     top: 10vh;
     margin: 0 0 10px;
     z-index: 1;
-    scroll-snap-align: start;
+    /*scroll-snap-align: start;*/
 }
 .menu {
     display: flex;
