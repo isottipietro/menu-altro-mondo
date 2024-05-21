@@ -1,6 +1,10 @@
 @import url('https://fonts.cdnfonts.com/css/dirty-ego');
 @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
 
+html {
+    scroll-behavior: smooth;
+  }
+
 body {
     margin: 0;
     padding: 0;
@@ -157,7 +161,7 @@ footer p {
 }
 
 main {
-    margin-top: 94vh;
+    margin-top: 110vh;
     margin-bottom: 6vh;
 }
 
