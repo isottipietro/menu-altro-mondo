@@ -12,6 +12,17 @@ body {
     font-style: normal;
 }
 
+@keyframes header-shrink-logo {
+	from {
+		font-size: 4.5em;
+        max-width: 50%;
+	}
+	to {
+		font-size: 2.1em;
+        max-width: 40%;
+	}
+}
+
 header {
     background-color: #a52710;
     color: white;
@@ -28,12 +39,13 @@ header {
 
 header h1 {
     margin: 0;
-    transition: 0.4s;
     text-align: center;
     padding: 0.2em;
     max-width: 50%;
     font-size: 4.5em;
     font-weight: normal;
+    animation: header-shrink-logo linear forwards;
+	animation-timeline: scroll();
 }
 
 header p {
@@ -43,6 +55,7 @@ header p {
     padding: 0.2em 1em;
     max-width: 20%;
 }
+
 #info {
     max-width: 100%;
     padding: 0.1em;
