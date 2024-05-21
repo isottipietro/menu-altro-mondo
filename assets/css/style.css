@@ -84,12 +84,14 @@ header p {
     font-size: 2em;
     padding: 0.2em 1em;
     max-width: 20%;
+}
+#shrink {
     animation: header-shrink-data linear forwards;
 	animation-timeline: scroll();
     animation-range: 0vh 70vh;
 }
 
-header p #disappear {
+#disappear {
     animation: disappear linear forwards;
 	animation-timeline: scroll();
     animation-range: 0vh 70vh;
