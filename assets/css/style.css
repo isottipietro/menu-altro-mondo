@@ -3,6 +3,8 @@
 
 html {
     scroll-behavior: smooth;
+    scroll-padding-top: 9rem;
+    scroll-snap-type: y proximity;
   }
 
 body {
@@ -14,7 +16,6 @@ body {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
-    scroll-snap-type: y mandatory;
 }
 
 @keyframes header-shrink-logo {
@@ -236,7 +237,7 @@ menu {
     animation-range: 0vh 81vh;
     margin: 0;
     z-index: 0;
-    scroll-snap-align: start;
+    /*scroll-snap-align: start;*/
 }
 .menu {
     display: flex;
