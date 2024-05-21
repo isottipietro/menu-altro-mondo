@@ -21,9 +21,10 @@
 
     <script>
         // When the user scrolls down 50px from the top of the document, resize the header's font size
-        $(document).onload() = function() {calcFunction()};
-        window.onscroll = function() {scrollFunction()};
+        window.onload = function() {calcFunction()};
         
+        window.onscroll = function() {scrollFunction()};
+
         function calcFunction() {
           var headerHeight = $('header').height() + 'px';
           $('main').css('margin-top', headerHeight);
