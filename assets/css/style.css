@@ -34,10 +34,17 @@ body {
 }
 @keyframes disappear {
 	from {
-		display: flex;
+        opacity: 100%;
+        visibility: visible;
+        height: auto;
+        margin: auto;
 	}
 	to {
-		display: none;
+        opacity: 0%;
+        visibility: hidden;
+        height: 0;
+        margin: 0;
+        padding: 0;
 	}
 }
 @keyframes header-shrink {
@@ -57,8 +64,6 @@ header {
     font-family: 'Dirty Ego';
     top: 0;
     display: flex;
-    justify-content: space-between;
-    flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     animation: header-shrink linear forwards;
@@ -95,8 +100,12 @@ header p {
     animation: disappear linear forwards;
 	animation-timeline: scroll();
     animation-range: 0vh 70vh;
+    width: 100%;
 }
-
+#title {
+    display: flex;
+    flex-direction: row;
+}
 footer {
     position: fixed;
     left: 0;
