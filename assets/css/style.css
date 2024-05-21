@@ -5,6 +5,7 @@ html {
     scroll-behavior: smooth;
     scroll-padding-top: 8.5rem;
     scroll-snap-type: y proximity;
+	scroll-snap-stop: always;
   }
 
 body {
