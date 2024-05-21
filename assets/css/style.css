@@ -70,13 +70,6 @@ header p {
     animation-range: 0vh 30vh;
 }
 
-#info {
-    max-width: 100%;
-    padding: 0.1em;
-    margin: 2px;
-    text-align: left;
-}
-
 footer {
     position: fixed;
     left: 0;
