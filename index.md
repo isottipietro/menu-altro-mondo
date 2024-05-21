@@ -1,7 +1,7 @@
 ---
 layout: home
 title: VEN 9
-description: Un viaggio tra i sapori del mondo e la solidarietà
+description: Scopri la cena ghanese e le altre cose della cucina
 ---
 
 ## Antipasti ##
