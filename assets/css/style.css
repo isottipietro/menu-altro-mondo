@@ -236,6 +236,7 @@ menu {
 
 .menu ul {
     padding: 1em;
+    scroll-snap-align: start;
 }
 
 .bounce {
