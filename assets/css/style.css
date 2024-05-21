@@ -34,7 +34,7 @@ body {
 }
 @keyframes disappear {
 	from {
-		display: block;
+		display: flex;
 	}
 	to {
 		display: none;
@@ -42,7 +42,7 @@ body {
 }
 @keyframes header-shrink {
 	from {
-		height: 80vh;
+		height: 70vh;
 	}
 	to {
 		height: 10vh;
@@ -63,7 +63,7 @@ header {
     align-items: center;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 50vh;
+    animation-range: 0vh 70vh;
 }
 
 header h1 {
@@ -75,7 +75,7 @@ header h1 {
     font-weight: normal;
     animation: header-shrink-logo linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 50vh;
+    animation-range: 0vh 70vh;
 }
 
 header p {
@@ -86,13 +86,13 @@ header p {
     max-width: 20%;
     animation: header-shrink-data linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 50vh;
+    animation-range: 0vh 70vh;
 }
 
-#disappear {
+header p #disappear {
     animation: disappear linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 50vh;
+    animation-range: 0vh 70vh;
 }
 
 footer {
@@ -158,7 +158,7 @@ img {
 
 @keyframes menu-traspose {
 	from {
-		top: 80vh;
+		top: 70vh;
 	}
 	to {
         top: 10vh;
@@ -167,11 +167,10 @@ img {
 
 menu {
     position: sticky;
-    top: 80vh;
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 50vh;
+    animation-range: 0vh 70vh;
     margin: 0;
 }
 .menu {
