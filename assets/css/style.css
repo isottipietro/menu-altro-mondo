@@ -78,6 +78,7 @@ header {
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
     animation-range: 0vh 94vh;
+    z-index: 1;
 }
 
 header h1 {
@@ -89,7 +90,7 @@ header h1 {
     font-weight: normal;
     animation: header-shrink-logo linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 94vh;
+    animation-range: 0vh 80vh;
 }
 
 header p {
@@ -102,7 +103,7 @@ header p {
 .shrink {
     animation: header-shrink-data linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 70vh;
+    animation-range: 0vh 80vh;
 }
 
 .disappear {
@@ -120,7 +121,7 @@ header p {
     flex-direction: row;
     animation: title-rearrange linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 70vh;
+    animation-range: 0vh 80vh;
     width: 100%;
     align-items: center;
 }
@@ -146,6 +147,7 @@ footer {
     animation: footer-color linear forwards;
 	animation-timeline: scroll();
     animation-range: 0vh 10vh;
+    z-index: 1;
 }
 
 footer p {
@@ -162,7 +164,7 @@ main {
 main h2 {
     background-color: #81744b;
     color: #fff;
-    padding: 1.5em;
+    padding: 1em 1.5em;
     margin: 0;
 }
 ul {
@@ -220,8 +222,9 @@ menu {
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 70vh;
+    animation-range: 0vh 94vh;
     margin: 0;
+    z-index: 0;
 }
 .menu {
     display: flex;
