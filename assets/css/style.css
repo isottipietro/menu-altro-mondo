@@ -22,6 +22,16 @@ body {
         max-width: 40%;
 	}
 }
+@keyframes header-shrink-data {
+	from {
+		font-size: 2em;
+        max-width: 50%;
+	}
+	to {
+		font-size: 1em;
+        max-width: 40%;
+	}
+}
 
 header {
     background-color: #a52710;
@@ -55,6 +65,9 @@ header p {
     font-size: 2em;
     padding: 0.2em 1em;
     max-width: 20%;
+    animation: header-shrink-data linear forwards;
+	animation-timeline: scroll();
+    animation-range: 0vh 50vh;
 }
 
 #info {
