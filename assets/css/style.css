@@ -227,6 +227,7 @@ menu {
     top: 9.5vh;
     margin: 0 0 10px;
     z-index: 1;
+    padding: 0 0.5em;
     /*scroll-snap-align: start;*/
 }
 .menu {
@@ -236,7 +237,17 @@ menu {
 }
 
 .menu ul {
-    padding: 1em;
+    padding: 0.8em;
+    border-color: #333;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 15px;
+    margin: 0.2em;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
 }
 
 .bounce {
