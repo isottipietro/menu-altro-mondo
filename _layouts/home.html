@@ -11,8 +11,10 @@
         <h1 id="logo">{{ site.title }}</h1>
         <p id="data">{{ page.title }}</p>
     </header>
+    <menu>
+      {% include menu.html %}
+    </menu>
     <main>
-        {% include menu.html %}
         {{ content }}
     </main>
     <footer>
