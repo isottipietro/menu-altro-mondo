@@ -63,13 +63,15 @@ main {
     margin-top: 150px;
 }
 
-h2 {
-    color: #4CAF50;
-}
-
 .socials {
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
     padding: 1em;
     background-color: #f39c34;
     color: white;
+}
+
+img {
+    width: 3em;
 }
