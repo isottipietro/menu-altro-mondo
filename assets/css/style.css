@@ -80,9 +80,12 @@ footer {
 footer p {
     align-items: center;
     margin: 0;
+    text-decoration: underline;
 }
+
 main {
     margin-top: 300px;
+    margin-bottom: 70px;
 }
 
 main h2 {
