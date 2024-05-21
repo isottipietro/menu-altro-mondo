@@ -172,6 +172,12 @@ main h2 {
     padding: 1em 1.5em;
     margin: 0;
 }
+h2.anchor {
+    display: block;
+    position: relative;
+    top: -10vh;
+    visibility: hidden;
+}
 ul {
     padding: 0;
     margin: 0;
