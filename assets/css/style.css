@@ -55,10 +55,10 @@ body {
 }
 @keyframes header-shrink {
 	from {
-		height: 94vh;
+		height: 94%;
 	}
 	to {
-		height: 10vh;
+		height: 10%;
 	}
 }
 @keyframes title-rearrange {
@@ -83,7 +83,7 @@ header {
     align-items: center;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 94vh;
+    animation-range: 0% 94%;
     z-index: 1;
 }
 
@@ -96,7 +96,7 @@ header h1 {
     font-weight: normal;
     animation: header-shrink-logo linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 80vh;
+    animation-range: 0% 80%;
 }
 
 header p {
@@ -109,13 +109,13 @@ header p {
 .shrink {
     animation: header-shrink-data linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 80vh;
+    animation-range: 0% 80%;
 }
 
 .disappear {
     animation: disappear linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 50vh;
+    animation-range: 0% 50%;
     width: 100%;
     margin: 0;
     max-width: 100%;
@@ -127,7 +127,7 @@ header p {
     flex-direction: row;
     animation: title-rearrange linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 80vh;
+    animation-range: 0% 80%;
     width: 100%;
     align-items: center;
 }
@@ -148,11 +148,11 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 6vh;
+    height: 6%;
     border-top-color: #f39c34;
     animation: footer-color linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 10vh;
+    animation-range: 0% 10%;
     z-index: 1;
 }
 
@@ -163,8 +163,8 @@ footer p {
 }
 
 main {
-    margin-top: 110vh;
-    margin-bottom: 6vh;
+    margin-top: 110%;
+    margin-bottom: 6%;
 }
 
 main h2 {
@@ -216,10 +216,10 @@ img {
 
 @keyframes menu-traspose {
 	from {
-		top: 94vh;
+		top: 94%;
 	}
 	to {
-        top: 10vh;
+        top: 10%;
 	}
 }
 
@@ -228,7 +228,7 @@ menu {
     background-color: #f39c34;
     animation: menu-traspose linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 94vh;
+    animation-range: 0% 94%;
     margin: 0;
     z-index: 0;
 }
