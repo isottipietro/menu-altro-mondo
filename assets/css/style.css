@@ -49,7 +49,7 @@ body {
 }
 @keyframes header-shrink {
 	from {
-		height: 70vh;
+		height: 94vh;
 	}
 	to {
 		height: 10vh;
@@ -77,7 +77,7 @@ header {
     align-items: center;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 70vh;
+    animation-range: 0vh 94vh;
 }
 
 header h1 {
@@ -89,7 +89,7 @@ header h1 {
     font-weight: normal;
     animation: header-shrink-logo linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 70vh;
+    animation-range: 0vh 94vh;
 }
 
 header p {
@@ -190,7 +190,6 @@ li ul li {
     justify-content: space-between;
     flex-direction: row;
     padding: 0.5em;
-    background-color: #f39c34;
     color: white;
     font-family: 'Dirty Ego';
     font-size: 1.5em;
