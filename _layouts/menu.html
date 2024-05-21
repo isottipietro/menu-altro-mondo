@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
+        <h1 id="logo">{{ site.title }}</h1>
         <p>{{ site.description }}</p>
     </header>
     <main>
@@ -24,9 +24,11 @@
         
         function scrollFunction() {
           if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
-            document.getElementById("header").style.fontSize = "0.9em";
+            document.getElementById("logo").style.fontSize = "0.9em";
+            document.getElementById("logo").style.textAlign = "left";
           } else {
-            document.getElementById("header").style.fontSize = "1.5em";
+            document.getElementById("logo").style.fontSize = "1.5em";
+            document.getElementById("logo").style.textAlign = "center";
           }
         }
     </script>
