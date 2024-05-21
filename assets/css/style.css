@@ -55,6 +55,14 @@ body {
 		height: 10vh;
 	}
 }
+@keyframes title-rearrange {
+	from {
+		flex-direction: column;
+	}
+	to {
+		flex-direction: row;
+	}
+}
 
 header {
     background-color: #a52710;
@@ -105,6 +113,9 @@ header p {
 #title {
     display: flex;
     flex-direction: row;
+    animation: title-rearrange linear forwards;
+	animation-timeline: scroll();
+    animation-range: 0vh 70vh;
 }
 footer {
     position: fixed;
