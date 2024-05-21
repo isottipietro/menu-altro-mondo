@@ -4,9 +4,7 @@ title: VEN 9
 description: Un viaggio tra i sapori del mondo e la solidarietà
 ---
 
-## Menù della Sagra
-
-### Antipasti
+## Antipasti ##
 - **Bruschette al pomodoro** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
   - Allergeni: Glutine
 
@@ -16,7 +14,7 @@ description: Un viaggio tra i sapori del mondo e la solidarietà
 - **Bruschette alla marmellata** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
   - Allergeni: Glutine
 
-### Primi Piatti
+## Primi Piatti ##
 - **Couscous alla marocchina** - Couscous con verdure e spezie tradizionali
   - Allergeni: Glutine
 
@@ -26,7 +24,7 @@ description: Un viaggio tra i sapori del mondo e la solidarietà
 - **Couscous alla egiziana** - Couscous con verdure e spezie tradizionali
   - Allergeni: Glutine
 
-### Secondi Piatti
+## Secondi Piatti ##
 - **Pollo tandoori** - Pollo marinato in yogurt e spezie, cotto al forno
   - Allergeni: Latte
 
@@ -36,11 +34,11 @@ description: Un viaggio tra i sapori del mondo e la solidarietà
 - **Pesce tandoori** - Pollo marinato in yogurt e spezie, cotto al forno
   - Allergeni: Latte
 
-### Dolci
+## Dolci
 - **Baklava** - Dolce a base di pasta fillo, noci e miele
   - Allergeni: Glutine, Frutta a guscio
 
-### Bevande
+## Bevande
 - **Tè alla menta** - Bevanda rinfrescante a base di tè verde e menta
   - Allergeni: Nessuno
 
