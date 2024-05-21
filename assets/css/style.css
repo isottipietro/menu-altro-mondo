@@ -86,6 +86,9 @@ main {
     margin-top: 300px;
 }
 
+main h2 {
+    background-color: #81744b;
+}
 .socials {
     display: flex;
     align-items: center;
