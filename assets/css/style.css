@@ -19,7 +19,7 @@ body {
 	}
 	to {
 		font-size: 2.1em;
-        max-width: 40%;
+        max-width: 35%;
 	}
 }
 @keyframes header-shrink-data {
@@ -91,9 +91,14 @@ main h2 {
     padding: 1.5em;
     margin: 0;
 }
-
+ul {
+    padding: 0;
+}
 li {
     background-color: #f7ebec;
+    list-style-type: none;
+    padding: 1em;
+    margin: 0;
 }
 .socials {
     display: flex;
