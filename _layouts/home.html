@@ -19,27 +19,5 @@
         {% include socials.html %}
     </footer>
 
-    <script>
-        // When the user scrolls down 50px from the top of the document, resize the header's font size
-        window.onscroll = function() {scrollFunction()};
-        
-        function scrollFunction() {
-          if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50 ) {
-            //piccolo
-            document.getElementById("logo").style.fontSize = "2.1em";
-            document.getElementById("logo").style.whiteSpace = "nowrap";
-            document.getElementById("logo").style.maxWidth = "40%";
-            document.getElementById("data").style.fontSize = "1.2em";
-            document.getElementById("info").style.display = "none";
-          } else {
-            //grande
-            document.getElementById("logo").style.fontSize = "4.5em";
-            document.getElementById("logo").style.whiteSpace = "normal";
-            document.getElementById("logo").style.maxWidth = "50%";
-            document.getElementById("data").style.fontSize = "2em";
-            document.getElementById("info").style.display = "flex";
-          }
-        }
-    </script>
 </body>
 </html>
