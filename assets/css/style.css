@@ -14,8 +14,8 @@ body {
 
 @keyframes header-shrink-logo {
 	from {
-		font-size: 4.5em;
-        max-width: 50%;
+		font-size: 6em;
+        max-width: 100%;
 	}
 	to {
 		font-size: 2.1em;
