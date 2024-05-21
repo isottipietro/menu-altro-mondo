@@ -25,13 +25,15 @@
         
         function scrollFunction() {
           if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50 ) {
-            document.getElementById("logo").style.fontSize = "1.5em";
+            //piccolo
+            document.getElementById("logo").style.fontSize = "2.1em";
             document.getElementById("logo").style.whiteSpace = "nowrap";
             document.getElementById("logo").style.maxWidth = "40%";
-            document.getElementById("data").style.fontSize = "0.9em";
+            document.getElementById("data").style.fontSize = "1.2em";
             document.getElementById("info").style.display = "none";
           } else {
-            document.getElementById("logo").style.fontSize = "3em";
+            //grande
+            document.getElementById("logo").style.fontSize = "4.5em";
             document.getElementById("logo").style.whiteSpace = "normal";
             document.getElementById("logo").style.maxWidth = "50%";
             document.getElementById("data").style.fontSize = "2em";
