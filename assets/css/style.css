@@ -14,6 +14,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+    scroll-snap-type: y mandatory;
 }
 
 @keyframes header-shrink-logo {
@@ -229,6 +230,7 @@ menu {
     animation-range: 0vh 94vh;
     margin: 0;
     z-index: 0;
+    scroll-snap-align: start;
 }
 .menu {
     display: flex;
