@@ -131,6 +131,7 @@ header p {
     animation-range: 0svh 80svh;
     width: 100%;
     align-items: center;
+    text-shadow: 5px 2px 3px #333;
 }
 
 @keyframes footer-color {
@@ -175,9 +176,7 @@ main h2 {
     margin: 0;
     scroll-snap-align: start;
 }
-main p {
-    padding: 1em;
-}
+
 ul {
     padding: 0;
     margin: 0;
