@@ -3,7 +3,7 @@
 
 html {
     /*scroll-behavior: smooth;*/
-    scroll-padding-top: 8.5rem;
+    scroll-padding-top: 6rem;
     scroll-snap-type: y proximity;
 	scroll-snap-stop: always;
   }
@@ -59,7 +59,7 @@ body {
 		height: 94svh;
 	}
 	to {
-		height: 10svh;
+		height: 8svh;
 	}
 }
 @keyframes title-rearrange {
@@ -84,7 +84,7 @@ header {
     align-items: center;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0svh 86svh;
+    animation-range: 0svh 84svh;
     z-index: 0;
 }
 
