@@ -3,7 +3,7 @@
 
 html {
     /*scroll-behavior: smooth;*/
-    scroll-padding-top: 4rem;
+    scroll-padding-top: 8svh;
     scroll-snap-type: y proximity;
 	scroll-snap-stop: always;
   }
@@ -175,7 +175,9 @@ main h2 {
     margin: 0;
     scroll-snap-align: start;
 }
-
+main p {
+    padding: 1em;
+}
 ul {
     padding: 0;
     margin: 0;
