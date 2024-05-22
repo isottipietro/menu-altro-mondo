@@ -3,6 +3,15 @@ layout: home
 title: Venerdì 9
 description: Scopri la cena ghanese e le altre cose della cucina
 ---
+Benvenuti alla festa dell'altro mondo,
+dove il cibo etnico fa il girotondo,
+sapori lontani, uniti e vicini,
+per aiutare tutti, grandi e piccini.
+
+Un pasto, un sorriso, un gesto d'amore,
+per un mondo migliore, con più calore.
+Venite, ballate, gustate e donate,
+insieme felici, le mani intrecciate.
 
 ## Antipasti ##
 - **Bruschette al pomodoro** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
