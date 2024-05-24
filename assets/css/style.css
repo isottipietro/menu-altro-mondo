@@ -4,7 +4,7 @@
 html {
     /*scroll-behavior: smooth;*/
     scroll-padding-top: 8svh;
-    scroll-snap-type: y proximity;
+    /*scroll-snap-type: y proximity;*/
 	scroll-snap-stop: always;
   }
 
