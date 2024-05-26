@@ -3,7 +3,7 @@
 
 html {
     /*scroll-behavior: smooth;*/
-    scroll-padding-top: 8vh;
+    scroll-padding-top: 8svh;
     scroll-snap-type: y proximity;
     scroll-snap-stop: always;
   }
@@ -20,33 +20,33 @@ body {
 }
 
 @-webkit-keyframes header-shrink-logo {
-	from {
+	0% {
 		-webkit-font-size: 6em;
         -webkit-max-width: 100%;
 	}
-	to {
+	100% {
 		-webkit-font-size: 2.1em;
         -webkit-max-width: 70%;
 	}
 }
 @-webkit-keyframes header-shrink-data {
-	from {
+	0% {
 		-webkit-font-size: 2em;
         -webkit-max-width: 50%;
 	}
-	to {
+	100% {
 		-webkit-font-size: 1em;
         -webkit-max-width: 40%;
 	}
 }
 @-webkit-keyframes disappear {
-	from {
+	0% {
         -webkit-opacity: 100%;
         -webkit-visibility: visible;
         -webkit-height: auto;
         -webkit-margin: auto;
 	}
-	to {
+	100% {
         -webkit-opacity: 0%;
         -webkit-visibility: hidden;
         -webkit-height: 0;
@@ -55,50 +55,50 @@ body {
 	}
 }
 @-webkit-keyframes header-shrink {
-	from {
-		-webkit-height: 94vh;
+	0% {
+		-webkit-height: 94svh;
 	}
-	to {
-		-webkit-height: 8vh;
+	100% {
+		-webkit-height: 8svh;
 	}
 }
 @-webkit-keyframes title-rearrange {
-	from {
+	0% {
 		-webkit-flex-direction: column;
 	}
-	to {
+	100% {
 		-webkit-flex-direction: row;
         -webkit-justify-content: space-between;
 	}
 }
 @keyframes header-shrink-logo {
-	from {
+	0% {
 		font-size: 6em;
         max-width: 100%;
 	}
-	to {
+	100% {
 		font-size: 2.1em;
         max-width: 70%;
 	}
 }
 @keyframes header-shrink-data {
-	from {
+	0% {
 		font-size: 2em;
         max-width: 50%;
 	}
-	to {
+	100% {
 		font-size: 1em;
         max-width: 40%;
 	}
 }
 @keyframes disappear {
-	from {
+	0% {
         opacity: 100%;
         visibility: visible;
         height: auto;
         margin: auto;
 	}
-	to {
+	100% {
         opacity: 0%;
         visibility: hidden;
         height: 0;
@@ -107,18 +107,18 @@ body {
 	}
 }
 @keyframes header-shrink {
-	from {
-		height: 94vh;
+	0% {
+		height: 94svh;
 	}
-	to {
-		height: 8vh;
+	100% {
+		height: 8svh;
 	}
 }
 @keyframes title-rearrange {
-	from {
+	0% {
 		flex-direction: column;
 	}
-	to {
+	100% {
 		flex-direction: row;
         justify-content: space-between;
 	}
@@ -135,11 +135,11 @@ header {
     align-items: center;
     -webkit-animation: header-shrink linear forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0vh 84vh;
+    -webkit-animation-range: 0svh 84svh;
     z-index: 0;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 84vh;
+    animation-range: 0svh 84svh;
 }
 
 header h1 {
@@ -149,10 +149,10 @@ header h1 {
     font-weight: normal;
     -webkit-animation: header-shrink-logo ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 20vh 50vh;
+    -webkit-animation-range: 20svh 50svh;
     animation: header-shrink-logo ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 20vh 50vh;
+    animation-range: 20svh 50svh;
 }
 
 header p {
@@ -165,19 +165,19 @@ header p {
 .shrink {
     -webkit-animation: header-shrink-data ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 20vh 50vh;
+    -webkit-animation-range: 20svh 50svh;
     animation: header-shrink-data ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 20vh 50vh;
+    animation-range: 20svh 50svh;
 }
 
 .disappear {
     -webkit-animation: disappear ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0vh 40vh;
+    -webkit-animation-range: 0svh 40svh;
     animation: disappear ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 40vh;
+    animation-range: 0svh 40svh;
     width: 100%;
     margin: 0;
     max-width: 100%;
@@ -189,31 +189,31 @@ header p {
 	flex-direction: column;
     -webkit-animation: title-rearrange ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0vh 80vh;
+    -webkit-animation-range: 0svh 80svh;
     animation: title-rearrange ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 80vh;
+    animation-range: 0svh 80svh;
     width: 100%;
     align-items: center;
     text-shadow: 5px 2px 3px #333;
 }
 
 @-webkit-keyframes footer-color {
-	from {
+	0% {
         -webkit-background-color:#a52710;
         -webkit-border-top-style: solid;
     	}
-	to {
+	100% {
         -webkit-background-color: #f39c34;
         -webkit-border-top-style: hidden;
     }
 }
 @keyframes footer-color {
-	from {
+	0% {
         background-color:#a52710;
         border-top-style: solid;
     	}
-	to {
+	100% {
         background-color: #f39c34;
         border-top-style: hidden;
     }
@@ -224,14 +224,14 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 6vh;
+    height: 6svh;
     border-top-color: #f39c34;
     -webkit-animation: footer-color linear forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0vh 10vh;
+    -webkit-animation-range: 0svh 10svh;
     animation: footer-color linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0vh 10vh;
+    animation-range: 0svh 10svh;
     z-index: 2;
 }
 
@@ -242,8 +242,8 @@ footer p {
 }
 
 main {
-    margin-top: 94vh;
-    margin-bottom: 6vh;
+    margin-top: 94svh;
+    margin-bottom: 6svh;
 }
 
 main h2 {
@@ -298,7 +298,7 @@ img {
 menu {
     position: sticky;
     background-color: #f39c34;
-    top: 9.5vh;
+    top: 9.5svh;
     margin: 0 0 10px;
     z-index: 1;
     padding: 0 0.5em;
