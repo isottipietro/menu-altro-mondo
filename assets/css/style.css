@@ -64,6 +64,16 @@
         border-top-style: hidden;
     }
 }
+@keyframes main-shrink {
+    from {
+        margin-top: 94svh;
+    }
+    to {
+        margin-top: 8svh;
+
+    }
+    
+}
 html {
     /*scroll-behavior: smooth;*/
     scroll-padding-top: 8svh;
@@ -162,8 +172,8 @@ footer p {
 }
 
 main {
-    margin-top: 8svh;
     margin-bottom: 6svh;
+    animation: main-shrink 1s linear forwards;
 }
 
 main h2 {
