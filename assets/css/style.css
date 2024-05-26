@@ -3,7 +3,7 @@
 
 html {
     /*scroll-behavior: smooth;*/
-    scroll-padding-top: 8svh;
+    scroll-padding-top: 8vh;
     scroll-snap-type: y proximity;
     scroll-snap-stop: always;
   }
@@ -56,10 +56,10 @@ body {
 }
 @-webkit-keyframes header-shrink {
 	from {
-		-webkit-height: 94svh;
+		-webkit-height: 94vh;
 	}
 	to {
-		-webkit-height: 8svh;
+		-webkit-height: 8vh;
 	}
 }
 @-webkit-keyframes title-rearrange {
@@ -108,10 +108,10 @@ body {
 }
 @keyframes header-shrink {
 	from {
-		height: 94svh;
+		height: 94vh;
 	}
 	to {
-		height: 8svh;
+		height: 8vh;
 	}
 }
 @keyframes title-rearrange {
@@ -135,11 +135,11 @@ header {
     align-items: center;
     -webkit-animation: header-shrink linear forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 84svh;
+    -webkit-animation-range: 0vh 84vh;
     z-index: 0;
     animation: header-shrink linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0svh 84svh;
+    animation-range: 0vh 84vh;
 }
 
 header h1 {
@@ -149,10 +149,10 @@ header h1 {
     font-weight: normal;
     -webkit-animation: header-shrink-logo ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 20svh 50svh;
+    -webkit-animation-range: 20vh 50vh;
     animation: header-shrink-logo ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 20svh 50svh;
+    animation-range: 20vh 50vh;
 }
 
 header p {
@@ -165,19 +165,19 @@ header p {
 .shrink {
     -webkit-animation: header-shrink-data ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 20svh 50svh;
+    -webkit-animation-range: 20vh 50vh;
     animation: header-shrink-data ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 20svh 50svh;
+    animation-range: 20vh 50vh;
 }
 
 .disappear {
     -webkit-animation: disappear ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 40svh;
+    -webkit-animation-range: 0vh 40vh;
     animation: disappear ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 0svh 40svh;
+    animation-range: 0vh 40vh;
     width: 100%;
     margin: 0;
     max-width: 100%;
@@ -189,10 +189,10 @@ header p {
 	flex-direction: column;
     -webkit-animation: title-rearrange ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 80svh;
+    -webkit-animation-range: 0vh 80vh;
     animation: title-rearrange ease-in-out forwards;
 	animation-timeline: scroll();
-    animation-range: 0svh 80svh;
+    animation-range: 0vh 80vh;
     width: 100%;
     align-items: center;
     text-shadow: 5px 2px 3px #333;
@@ -224,14 +224,14 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 6svh;
+    height: 6vh;
     border-top-color: #f39c34;
     -webkit-animation: footer-color linear forwards;
 	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 10svh;
+    -webkit-animation-range: 0vh 10vh;
     animation: footer-color linear forwards;
 	animation-timeline: scroll();
-    animation-range: 0svh 10svh;
+    animation-range: 0vh 10vh;
     z-index: 2;
 }
 
@@ -242,8 +242,8 @@ footer p {
 }
 
 main {
-    margin-top: 94svh;
-    margin-bottom: 6svh;
+    margin-top: 94vh;
+    margin-bottom: 6vh;
 }
 
 main h2 {
@@ -298,7 +298,7 @@ img {
 menu {
     position: sticky;
     background-color: #f39c34;
-    top: 9.5svh;
+    top: 9.5vh;
     margin: 0 0 10px;
     z-index: 1;
     padding: 0 0.5em;
