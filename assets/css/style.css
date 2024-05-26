@@ -71,7 +71,58 @@ body {
         -webkit-justify-content: space-between;
 	}
 }
-
+@keyframes header-shrink-logo {
+	from {
+		font-size: 6em;
+        max-width: 100%;
+	}
+	to {
+		font-size: 2.1em;
+        max-width: 70%;
+	}
+}
+@keyframes header-shrink-data {
+	from {
+		font-size: 2em;
+        max-width: 50%;
+	}
+	to {
+		font-size: 1em;
+        max-width: 40%;
+	}
+}
+@keyframes disappear {
+	from {
+        opacity: 100%;
+        visibility: visible;
+        height: auto;
+        margin: auto;
+	}
+	to {
+        opacity: 0%;
+        visibility: hidden;
+        height: 0;
+        margin: 0;
+        padding: 0;
+	}
+}
+@keyframes header-shrink {
+	from {
+		height: 94svh;
+	}
+	to {
+		height: 8svh;
+	}
+}
+@keyframes title-rearrange {
+	from {
+		flex-direction: column;
+	}
+	to {
+		flex-direction: row;
+        justify-content: space-between;
+	}
+}
 header {
     background-color: #a52710;
     color: white;
@@ -86,6 +137,9 @@ header {
 	-webkit-animation-timeline: scroll();
     -webkit-animation-range: 0svh 84svh;
     z-index: 0;
+    animation: header-shrink linear forwards;
+	animation-timeline: scroll();
+    animation-range: 0svh 84svh;
 }
 
 header h1 {
@@ -96,6 +150,9 @@ header h1 {
     -webkit-animation: header-shrink-logo ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
     -webkit-animation-range: 20svh 50svh;
+    animation: header-shrink-logo ease-in-out forwards;
+	animation-timeline: scroll();
+    animation-range: 20svh 50svh;
 }
 
 header p {
@@ -109,12 +166,18 @@ header p {
     -webkit-animation: header-shrink-data ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
     -webkit-animation-range: 20svh 50svh;
+    animation: header-shrink-data ease-in-out forwards;
+	animation-timeline: scroll();
+    animation-range: 20svh 50svh;
 }
 
 .disappear {
     -webkit-animation: disappear ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
     -webkit-animation-range: 0svh 40svh;
+    animation: disappear ease-in-out forwards;
+	animation-timeline: scroll();
+    animation-range: 0svh 40svh;
     width: 100%;
     margin: 0;
     max-width: 100%;
@@ -127,12 +190,15 @@ header p {
     -webkit-animation: title-rearrange ease-in-out forwards;
 	-webkit-animation-timeline: scroll();
     -webkit-animation-range: 0svh 80svh;
+    animation: title-rearrange ease-in-out forwards;
+	animation-timeline: scroll();
+    animation-range: 0svh 80svh;
     width: 100%;
     align-items: center;
     text-shadow: 5px 2px 3px #333;
 }
 
-@keyframes footer-color {
+@-webkit-keyframes footer-color {
 	from {
         -webkit-background-color:#a52710;
         -webkit-border-top-style: solid;
@@ -140,6 +206,16 @@ header p {
 	to {
         -webkit-background-color: #f39c34;
         -webkit-border-top-style: hidden;
+    }
+}
+@keyframes footer-color {
+	from {
+        background-color:#a52710;
+        border-top-style: solid;
+    	}
+	to {
+        background-color: #f39c34;
+        border-top-style: hidden;
     }
 }
 
@@ -153,6 +229,9 @@ footer {
     -webkit-animation: footer-color linear forwards;
 	-webkit-animation-timeline: scroll();
     -webkit-animation-range: 0svh 10svh;
+    animation: footer-color linear forwards;
+	animation-timeline: scroll();
+    animation-range: 0svh 10svh;
     z-index: 2;
 }
 
@@ -251,9 +330,17 @@ menu {
 
 .bounce {
     -webkit-animation: bounce 2s ease infinite;
-  }
-  @-webkit-keyframes bounce {
+    animation: bounce 2s ease infinite;
+}
+
+@-webkit-keyframes bounce {
       0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
       40% {transform: translateY(-30px);}
       60% {transform: translateY(-15px);}
-  }
+}
+
+@keyframes bounce {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+      40% {transform: translateY(-30px);}
+      60% {transform: translateY(-15px);}
+    }
