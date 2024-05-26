@@ -20,33 +20,33 @@ body {
 }
 
 @-webkit-keyframes header-shrink-logo {
-	0% {
+	from {
 		-webkit-font-size: 6em;
         -webkit-max-width: 100%;
 	}
-	100% {
+	to {
 		-webkit-font-size: 2.1em;
         -webkit-max-width: 70%;
 	}
 }
 @-webkit-keyframes header-shrink-data {
-	0% {
+	from {
 		-webkit-font-size: 2em;
         -webkit-max-width: 50%;
 	}
-	100% {
+	to {
 		-webkit-font-size: 1em;
         -webkit-max-width: 40%;
 	}
 }
 @-webkit-keyframes disappear {
-	0% {
+	from {
         -webkit-opacity: 100%;
         -webkit-visibility: visible;
         -webkit-height: auto;
         -webkit-margin: auto;
 	}
-	100% {
+	to {
         -webkit-opacity: 0%;
         -webkit-visibility: hidden;
         -webkit-height: 0;
@@ -55,50 +55,50 @@ body {
 	}
 }
 @-webkit-keyframes header-shrink {
-	0% {
+	from {
 		-webkit-height: 94svh;
 	}
-	100% {
+	to {
 		-webkit-height: 8svh;
 	}
 }
 @-webkit-keyframes title-rearrange {
-	0% {
+	from {
 		-webkit-flex-direction: column;
 	}
-	100% {
+	to {
 		-webkit-flex-direction: row;
         -webkit-justify-content: space-between;
 	}
 }
 @keyframes header-shrink-logo {
-	0% {
+	from {
 		font-size: 6em;
         max-width: 100%;
 	}
-	100% {
+	to {
 		font-size: 2.1em;
         max-width: 70%;
 	}
 }
 @keyframes header-shrink-data {
-	0% {
+	from {
 		font-size: 2em;
         max-width: 50%;
 	}
-	100% {
+	to {
 		font-size: 1em;
         max-width: 40%;
 	}
 }
 @keyframes disappear {
-	0% {
+	from {
         opacity: 100%;
         visibility: visible;
         height: auto;
         margin: auto;
 	}
-	100% {
+	to {
         opacity: 0%;
         visibility: hidden;
         height: 0;
@@ -107,18 +107,18 @@ body {
 	}
 }
 @keyframes header-shrink {
-	0% {
+	from {
 		height: 94svh;
 	}
-	100% {
+	to {
 		height: 8svh;
 	}
 }
 @keyframes title-rearrange {
-	0% {
+	from {
 		flex-direction: column;
 	}
-	100% {
+	to {
 		flex-direction: row;
         justify-content: space-between;
 	}
@@ -199,21 +199,21 @@ header p {
 }
 
 @-webkit-keyframes footer-color {
-	0% {
+	from {
         -webkit-background-color:#a52710;
         -webkit-border-top-style: solid;
     	}
-	100% {
+	to {
         -webkit-background-color: #f39c34;
         -webkit-border-top-style: hidden;
     }
 }
 @keyframes footer-color {
-	0% {
+	from {
         background-color:#a52710;
         border-top-style: solid;
     	}
-	100% {
+	to {
         background-color: #f39c34;
         border-top-style: hidden;
     }
