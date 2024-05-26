@@ -183,6 +183,7 @@ footer p {
 main {
     margin-bottom: 6svh;
     animation: main-shrink 1s linear forwards;
+    animation-play-state:paused;
 }
 
 main h2 {
