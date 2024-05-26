@@ -78,7 +78,7 @@
     animation-play-state:paused;
 }
 .activated{
-    animation-play-state:running
+    animation-play-state: running !important;
 }
 html {
     /*scroll-behavior: smooth;*/
