@@ -1,76 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/dirty-ego');
 @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
 
-html {
-    /*scroll-behavior: smooth;*/
-    scroll-padding-top: 8svh;
-    scroll-snap-type: y proximity;
-    scroll-snap-stop: always;
-  }
-
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
-    font-family: "Alexandria", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-}
-
-@-webkit-keyframes header-shrink-logo {
-	from {
-		-webkit-font-size: 6em;
-        -webkit-max-width: 100%;
-	}
-	to {
-		-webkit-font-size: 2.1em;
-        -webkit-max-width: 70%;
-	}
-}
-@-webkit-keyframes header-shrink-data {
-	from {
-		-webkit-font-size: 2em;
-        -webkit-max-width: 50%;
-	}
-	to {
-		-webkit-font-size: 1em;
-        -webkit-max-width: 40%;
-	}
-}
-@-webkit-keyframes disappear {
-	from {
-        -webkit-opacity: 100%;
-        -webkit-visibility: visible;
-        -webkit-height: auto;
-        -webkit-margin: auto;
-	}
-	to {
-        -webkit-opacity: 0%;
-        -webkit-visibility: hidden;
-        -webkit-height: 0;
-        -webkit-margin: 0;
-        -webkit-padding: 0;
-	}
-}
-@-webkit-keyframes header-shrink {
-	from {
-		-webkit-height: 94svh;
-	}
-	to {
-		-webkit-height: 8svh;
-	}
-}
-@-webkit-keyframes title-rearrange {
-	from {
-		-webkit-flex-direction: column;
-	}
-	to {
-		-webkit-flex-direction: row;
-        -webkit-justify-content: space-between;
-	}
-}
+/* ANIMAZIONI */
 @keyframes header-shrink-logo {
 	from {
 		font-size: 6em;
@@ -123,91 +54,6 @@ body {
         justify-content: space-between;
 	}
 }
-header {
-    background-color: #a52710;
-    color: white;
-    position: fixed;
-    width: 100%;
-    font-family: 'Dirty Ego';
-    top: 0;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    -webkit-animation: header-shrink linear forwards;
-	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 84svh;
-    z-index: 0;
-    animation: header-shrink linear forwards;
-	animation-timeline: scroll();
-    animation-range: 0svh 84svh;
-}
-
-header h1 {
-    margin: 0;
-    text-align: center;
-    padding: 0.2em;
-    font-weight: normal;
-    -webkit-animation: header-shrink-logo ease-in-out forwards;
-	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 20svh 50svh;
-    animation: header-shrink-logo ease-in-out forwards;
-	animation-timeline: scroll();
-    animation-range: 20svh 50svh;
-}
-
-header p {
-    transition: 0.4s;
-    text-align: right;
-    font-size: 2em;
-    padding: 0.2em 1em;
-    max-width: 100%;
-}
-.shrink {
-    -webkit-animation: header-shrink-data ease-in-out forwards;
-	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 20svh 50svh;
-    animation: header-shrink-data ease-in-out forwards;
-	animation-timeline: scroll();
-    animation-range: 20svh 50svh;
-}
-
-.disappear {
-    -webkit-animation: disappear ease-in-out forwards;
-	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 40svh;
-    animation: disappear ease-in-out forwards;
-	animation-timeline: scroll();
-    animation-range: 0svh 40svh;
-    width: 100%;
-    margin: 0;
-    max-width: 100%;
-    padding: 0;
-    text-align: center;
-}
-#title {
-    display: flex;
-	flex-direction: column;
-    -webkit-animation: title-rearrange ease-in-out forwards;
-	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 80svh;
-    animation: title-rearrange ease-in-out forwards;
-	animation-timeline: scroll();
-    animation-range: 0svh 80svh;
-    width: 100%;
-    align-items: center;
-    text-shadow: 5px 2px 3px #333;
-}
-
-@-webkit-keyframes footer-color {
-	from {
-        -webkit-background-color:#a52710;
-        -webkit-border-top-style: solid;
-    	}
-	to {
-        -webkit-background-color: #f39c34;
-        -webkit-border-top-style: hidden;
-    }
-}
 @keyframes footer-color {
 	from {
         background-color:#a52710;
@@ -218,6 +64,83 @@ header p {
         border-top-style: hidden;
     }
 }
+html {
+    /*scroll-behavior: smooth;*/
+    scroll-padding-top: 8svh;
+    scroll-snap-type: y proximity;
+    scroll-snap-stop: always;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: "Alexandria", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+header {
+    background-color: #a52710;
+    color: white;
+    position: fixed;
+    width: 100%;
+    font-family: 'Dirty Ego';
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 0;
+    animation: header-shrink 1s forwards;
+	/* animation-timeline: scroll();
+    animation-range: 0svh 84svh; */
+}
+
+header h1 {
+    margin: 0;
+    text-align: center;
+    padding: 0.2em;
+    font-weight: normal;
+    animation: header-shrink-logo 1s ease-in-out forwards;
+/* 	animation-timeline: scroll();
+    animation-range: 20svh 50svh; */
+}
+
+header p {
+    transition: 0.4s;
+    text-align: right;
+    font-size: 2em;
+    padding: 0.2em 1em;
+    max-width: 100%;
+}
+.shrink {
+    animation: header-shrink-data 1s ease-in-out forwards;
+/* 	animation-timeline: scroll();
+    animation-range: 20svh 50svh; */
+}
+
+.disappear {
+    animation: disappear 1s ease-in-out forwards;
+/* 	animation-timeline: scroll();
+    animation-range: 0svh 40svh; */
+    width: 100%;
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+    text-align: center;
+}
+#title {
+    display: flex;
+	flex-direction: column;
+    animation: title-rearrange 1s ease-in-out forwards;
+/* 	animation-timeline: scroll();
+    animation-range: 0svh 80svh; */
+    width: 100%;
+    align-items: center;
+    text-shadow: 5px 2px 3px #333;
+}
 
 footer {
     position: fixed;
@@ -226,12 +149,9 @@ footer {
     width: 100%;
     height: 6svh;
     border-top-color: #f39c34;
-    -webkit-animation: footer-color linear forwards;
-	-webkit-animation-timeline: scroll();
-    -webkit-animation-range: 0svh 10svh;
-    animation: footer-color linear forwards;
-	animation-timeline: scroll();
-    animation-range: 0svh 10svh;
+    animation: footer-color 1s linear forwards;
+/* 	animation-timeline: scroll();
+    animation-range: 0svh 10svh; */
     z-index: 2;
 }
 
@@ -295,14 +215,13 @@ img {
     padding: 0 0.3em;
 }
 
-menu {
+/* menu {
     position: sticky;
     background-color: #f39c34;
     top: 9.5svh;
     margin: 0 0 10px;
     z-index: 1;
     padding: 0 0.5em;
-    /*scroll-snap-align: start;*/
 }
 .menu {
     display: flex;
@@ -327,16 +246,9 @@ menu {
 .menu :target {
     border-color: #a52710;
 }
-
+ */
 .bounce {
-    -webkit-animation: bounce 2s ease infinite;
     animation: bounce 2s ease infinite;
-}
-
-@-webkit-keyframes bounce {
-      0%, 20%, 50%, 80%, 100% {t-webkit-ransform: translateY(0);}
-      40% {-webkit-transform: translateY(-30px);}
-      60% {-webkit-transform: translateY(-15px);}
 }
 
 @keyframes bounce {
