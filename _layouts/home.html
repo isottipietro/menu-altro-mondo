@@ -16,7 +16,7 @@
   </script>
   <script>
     document.addEventListener('DOMContentLoaded',()=>{
-        document.addEventListener('scroll',()=>{
+        document.addEventListener('scroll',(event)=>{
             Array.from( document.querySelectorAll( '.animated' ) ).forEach( div=>{
                 div.classList.toggle('activated')
             })
