@@ -133,12 +133,14 @@ header p {
 }
 .shrink {
     animation: header-shrink-data 1s ease-in-out forwards;
+    animation-play-state:paused;
 /* 	animation-timeline: scroll();
     animation-range: 20svh 50svh; */
 }
 
 .disappear {
     animation: disappear 1s ease-in-out forwards;
+    animation-play-state:paused;
 /* 	animation-timeline: scroll();
     animation-range: 0svh 40svh; */
     width: 100%;
@@ -151,6 +153,7 @@ header p {
     display: flex;
 	flex-direction: column;
     animation: title-rearrange 1s ease-in-out forwards;
+    animation-play-state:paused;
 /* 	animation-timeline: scroll();
     animation-range: 0svh 80svh; */
     width: 100%;
