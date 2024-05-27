@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <!-- <script>
+    <script>
       document.addEventListener('DOMContentLoaded',()=>{
           document.querySelector('.trigger').addEventListener('click',()=>{
               Array.from( document.querySelectorAll( '.animated' ) ).forEach( div=>{
@@ -13,17 +13,17 @@
               })
           });
       })
-  </script> -->
-  <script>
+  </script>
+  <!-- <script>
     function animate() {
       Array.from( document.querySelectorAll( '.animated' ) ).forEach( div=>{
         div.classList.toggle('activated')
         });
       }
-</script>
+</script> -->
 </head>
 <body>
-    <header class="trigger animated"  onscroll="animate">
+    <header class="trigger animated">
       <div class="disappear animated">
         <p class="disappear animated">Benvenuto alla</p>
       </div>
