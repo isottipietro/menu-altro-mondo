@@ -295,7 +295,7 @@ img {
       linear-gradient(#612329 0 0) bottom no-repeat content-box, 
       #e4e0d7;
     mix-blend-mode: darken;
-    animation: l1 4s forward linear;
+    animation: l1 4s linear;
   }
   .loader:before {
     content: "";
