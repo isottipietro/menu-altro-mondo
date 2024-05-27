@@ -278,6 +278,7 @@ img {
     height: 80px;
     position: relative;
     align-items: center;
+    display: inline;
   }
   .loader:after {
     content: "";
