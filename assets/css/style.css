@@ -106,6 +106,7 @@ header {
     z-index: 0;
     animation: header-shrink 1s forwards;
     animation-delay: 4s;
+    height: 94svh;
 	/* animation-timeline: scroll();
     animation-range: 0svh 84svh; */
 }
@@ -117,6 +118,8 @@ header h1 {
     font-weight: normal;
     animation: header-shrink-logo 1s ease-in-out forwards;
     animation-delay: 4s;
+    font-size: 6em;
+    max-width: 100%;
 /* 	animation-timeline: scroll();
     animation-range: 20svh 50svh; */
 }
@@ -126,7 +129,7 @@ header p {
     text-align: right;
     font-size: 2em;
     padding: 0.2em 1em;
-    max-width: 100%;
+    max-width: 50%;
 }
 .shrink {
     animation: header-shrink-data 1s ease-in-out forwards;
@@ -181,6 +184,7 @@ footer p {
 main {
     margin-bottom: 6svh;
     animation: main-shrink 1s linear forwards;
+    margin-top: 94svh;
     animation-delay: 4s;
 }
 
