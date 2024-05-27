@@ -15,15 +15,15 @@
       })
   </script> -->
   <script>
-        document.addEventListener('scroll',()=>{
-            Array.from( document.querySelectorAll( '.animated' ) ).forEach( div=>{
-                div.classList.toggle('activated')
-            });
-        });
+    function animate() {
+      Array.from( document.querySelectorAll( '.animated' ) ).forEach( div=>{
+        div.classList.toggle('activated')
+        })
+      }
 </script>
 </head>
 <body>
-    <header class="trigger animated">
+    <header class="trigger animated" onscroll="animate()">
       <div class="disappear animated">
         <p class="disappear animated">Benvenuto alla</p>
       </div>
