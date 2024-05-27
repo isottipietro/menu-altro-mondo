@@ -74,12 +74,7 @@
     }
     
 }
-.animated{
-    animation-play-state:paused;
-}
-.activated{
-    animation-play-state: running !important;
-}
+
 html {
     /*scroll-behavior: smooth;*/
     scroll-padding-top: 8svh;
@@ -110,6 +105,7 @@ header {
     align-items: center;
     z-index: 0;
     animation: header-shrink 1s forwards;
+    animation-delay: 4s;
 	/* animation-timeline: scroll();
     animation-range: 0svh 84svh; */
 }
@@ -120,6 +116,7 @@ header h1 {
     padding: 0.2em;
     font-weight: normal;
     animation: header-shrink-logo 1s ease-in-out forwards;
+    animation-delay: 4s;
 /* 	animation-timeline: scroll();
     animation-range: 20svh 50svh; */
 }
@@ -133,14 +130,14 @@ header p {
 }
 .shrink {
     animation: header-shrink-data 1s ease-in-out forwards;
-    animation-play-state:paused;
+    animation-delay: 4s;
 /* 	animation-timeline: scroll();
     animation-range: 20svh 50svh; */
 }
 
 .disappear {
     animation: disappear 1s ease-in-out forwards;
-    animation-play-state:paused;
+    animation-delay: 4s;
 /* 	animation-timeline: scroll();
     animation-range: 0svh 40svh; */
     width: 100%;
@@ -153,7 +150,7 @@ header p {
     display: flex;
 	flex-direction: column;
     animation: title-rearrange 1s ease-in-out forwards;
-    animation-play-state:paused;
+    animation-delay: 4s;
 /* 	animation-timeline: scroll();
     animation-range: 0svh 80svh; */
     width: 100%;
@@ -169,6 +166,7 @@ footer {
     height: 6svh;
     border-top-color: #f39c34;
     animation: footer-color 1s linear forwards;
+    animation-delay: 4s;
 /* 	animation-timeline: scroll();
     animation-range: 0svh 10svh; */
     z-index: 2;
@@ -183,7 +181,7 @@ footer p {
 main {
     margin-bottom: 6svh;
     animation: main-shrink 1s linear forwards;
-    animation-play-state:paused;
+    animation-delay: 4s;
 }
 
 main h2 {
