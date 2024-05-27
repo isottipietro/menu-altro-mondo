@@ -15,18 +15,16 @@
       })
   </script> -->
   <script>
-    document.addEventListener('DOMContentLoaded',()=>{
       var started = false;
         document.addEventListener('scroll',()=>{
           if(!started) {
             Array.from( document.querySelectorAll( '.animated' ) ).forEach( div=>{
                 div.classList.toggle('activated')
             });
-          }
+          };
           started = true;
 
         });
-    })
 </script>
 </head>
 <body>
