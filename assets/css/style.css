@@ -313,6 +313,7 @@ img {
     position: relative;
     align-items: center;
     display: inline-block;
+    margin-bottom: 4vh;
   }
   .loader:after {
     content: "";
