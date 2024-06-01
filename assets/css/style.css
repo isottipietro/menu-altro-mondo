@@ -216,7 +216,7 @@ li ul li {
     padding: 0.3em;
     text-align: right;
     font-weight: bold;
-    background-color: #f7ebecbd;
+    background: none;
 }
 
 .socials {
@@ -385,13 +385,13 @@ img {
   0% {
     counter-increment: count 3;
   }
-  30% {
+  40% {
     counter-increment: count 2;
   }
-  60% {
+  70% {
     counter-increment: count 1;
   }
-  90% {
+  100% {
     counter-increment: count 0;
   }
 }
