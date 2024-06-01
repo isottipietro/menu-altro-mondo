@@ -372,9 +372,9 @@ img {
   
 
 .numbers::after {
-  font: 800 40px system-ui;
+  font-size: 2.5em;
   content: counter(count);
-  animation: counter 5s linear infinite alternate;
+  animation: counter 5s linear;
   counter-reset: count 0;
 }
 
@@ -382,13 +382,13 @@ img {
   0% {
     counter-increment: count 3;
   }
-  25% {
+  30% {
     counter-increment: count 2;
   }
-  50% {
+  60% {
     counter-increment: count 1;
   }
-  75% {
+  90% {
     counter-increment: count 0;
   }
   100% {
