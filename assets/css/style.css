@@ -91,6 +91,8 @@ body {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+    background-image: url(/menu-altro-mondo/assets/img/sfondo.jpg);
+    background-attachment: fixed;
 }
 
 header {
@@ -188,8 +190,7 @@ main {
     animation: main-shrink 1s linear forwards;
     margin-top: 94svh;
     animation-delay: 4s;
-    background-image: url(/menu-altro-mondo/assets/img/sfondo.jpg);
-    background-attachment: fixed;
+    
 }
 
 main h2 {
