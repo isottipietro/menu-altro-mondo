@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Venerdì 9
-description: Scorri in basso per scoprire la cena ghanese e le altre proposte della cucina
+description: Entra nell'altro mondo e scopri la cena ghanese tra...
 ---
 
 
