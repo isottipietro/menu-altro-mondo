@@ -189,6 +189,7 @@ main {
     margin-top: 94svh;
     animation-delay: 4s;
     background-image: url(/menu-altro-mondo/assets/img/sfondo.jpg);
+    background-attachment: fixed;
 }
 
 main h2 {
