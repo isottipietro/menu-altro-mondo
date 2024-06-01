@@ -376,13 +376,14 @@ img {
   content: counter(count);
   animation: counter 5s linear;
   counter-reset: count 0;
+  margin-bottom: 2vh;
 }
 
 @keyframes counter {
   0% {
     counter-increment: count 3;
   }
-  30% {
+  35% {
     counter-increment: count 2;
   }
   60% {
