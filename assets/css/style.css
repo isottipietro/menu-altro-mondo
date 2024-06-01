@@ -188,6 +188,7 @@ main {
     animation: main-shrink 1s linear forwards;
     margin-top: 94svh;
     animation-delay: 4s;
+    background-image: url(/menu-altro-mondo/assets/img/sfondo.jpg);
 }
 
 main h2 {
@@ -203,7 +204,7 @@ ul {
     margin: 0;
 }
 li {
-    background-color: #f7ebec;
+    background-color: #f7ebecbd;
     list-style-type: none;
     padding: 1em 1em 0.5em;;
     margin: 0.4em 0;
@@ -215,6 +216,7 @@ li ul li {
     padding: 0.3em;
     text-align: right;
     font-weight: bold;
+    background-color: #f7ebecbd;
 }
 
 .socials {
