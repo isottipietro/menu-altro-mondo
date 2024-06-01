@@ -380,36 +380,18 @@ img {
 
 @keyframes counter {
   0% {
-    counter-increment: count 0;
-  }
-  10% {
-    counter-increment: count 1;
-  }
-  20% {
-    counter-increment: count 2;
-  }
-  30% {
     counter-increment: count 3;
   }
-  40% {
-    counter-increment: count 4;
+  25% {
+    counter-increment: count 2;
   }
   50% {
-    counter-increment: count 5;
+    counter-increment: count 1;
   }
-  60% {
-    counter-increment: count 6;
-  }
-  70% {
-    counter-increment: count 7;
-  }
-  80% {
-    counter-increment: count 8;
-  }
-  90% {
-    counter-increment: count 9;
+  75% {
+    counter-increment: count 0;
   }
   100% {
-    counter-increment: count 10;
+    counter-increment: count 4;
   }
 }
