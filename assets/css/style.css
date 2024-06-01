@@ -383,7 +383,7 @@ img {
   0% {
     counter-increment: count 3;
   }
-  35% {
+  30% {
     counter-increment: count 2;
   }
   60% {
@@ -391,8 +391,5 @@ img {
   }
   90% {
     counter-increment: count 0;
-  }
-  100% {
-    counter-increment: count 4;
   }
 }
