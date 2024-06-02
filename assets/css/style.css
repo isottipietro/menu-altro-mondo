@@ -2,26 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
 
 /* ANIMAZIONI */
-@keyframes header-shrink-logo {
-	from {
-		font-size: 6em;
-        max-width: 100%;
-	}
-	to {
-		font-size: 2.1em;
-        max-width: 70%;
-	}
-}
-@keyframes header-shrink-data {
-	from {
-		font-size: 2em;
-        max-width: 50%;
-	}
-	to {
-		font-size: 1em;
-        max-width: 40%;
-	}
-}
 @keyframes disappear {
 	from {
         opacity: 100%;
@@ -37,23 +17,7 @@
         padding: 0;
 	}
 }
-@keyframes header-shrink {
-	from {
-		height: 94svh;
-	}
-	to {
-		height: 8svh;
-	}
-}
-@keyframes title-rearrange {
-	from {
-		flex-direction: column;
-	}
-	to {
-		flex-direction: row;
-        justify-content: space-between;
-	}
-}
+
 @keyframes footer-color {
 	from {
         background-color:#a52710;
@@ -63,16 +27,6 @@
         background-color: #f39c34;
         border-top-style: hidden;
     }
-}
-@keyframes main-shrink {
-    from {
-        margin-top: 94svh;
-    }
-    to {
-        margin-top: 8svh;
-
-    }
-    
 }
 
 html {
@@ -106,11 +60,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     z-index: 0;
-    animation: header-shrink 1s forwards;
-    animation-delay: 4s;
-    height: 94svh;
-	/* animation-timeline: scroll();
-    animation-range: 0svh 84svh; */
+    height: 8svh;
 }
 
 header h1 {
@@ -118,33 +68,21 @@ header h1 {
     text-align: center;
     padding: 0.2em;
     font-weight: normal;
-    animation: header-shrink-logo 1s ease-in-out forwards;
-    animation-delay: 4s;
-    font-size: 6em;
-    max-width: 100%;
-/* 	animation-timeline: scroll();
-    animation-range: 20svh 50svh; */
+    font-size: 2.1em;
+    max-width: 70%;
 }
 
 header p {
     transition: 0.4s;
     text-align: right;
-    font-size: 2em;
+    font-size: 1    em;
     padding: 0.2em 1em;
-    max-width: 50%;
-}
-.shrink {
-    animation: header-shrink-data 1s ease-in-out forwards;
-    animation-delay: 4s;
-/* 	animation-timeline: scroll();
-    animation-range: 20svh 50svh; */
+    max-width: 40%;
 }
 
 .disappear {
     animation: disappear 1s ease-in-out forwards;
-    animation-delay: 4s;
-/* 	animation-timeline: scroll();
-    animation-range: 0svh 40svh; */
+    animation-delay: 3s;
     width: 100%;
     margin: 0;
     max-width: 100%;
@@ -154,10 +92,6 @@ header p {
 #title {
     display: flex;
 	flex-direction: column;
-    animation: title-rearrange 1s ease-in-out forwards;
-    animation-delay: 4s;
-/* 	animation-timeline: scroll();
-    animation-range: 0svh 80svh; */
     width: 100%;
     align-items: center;
     text-shadow: 5px 2px 3px #333;
@@ -171,9 +105,7 @@ footer {
     height: 6svh;
     border-top-color: #f39c34;
     animation: footer-color 1s linear forwards;
-    animation-delay: 4s;
-/* 	animation-timeline: scroll();
-    animation-range: 0svh 10svh; */
+    animation-delay: 3s;
     z-index: 2;
     background-color:#a52710;
     border-top-style: solid;
@@ -187,10 +119,7 @@ footer p {
 
 main {
     margin-bottom: 6svh;
-    animation: main-shrink 1s linear forwards;
-    margin-top: 94svh;
-    animation-delay: 4s;
-    
+    margin-top: 8svh;
 }
 
 main h2 {
@@ -243,75 +172,9 @@ img {
     padding: 0 0.3em;
 }
 
-/* menu {
-    position: sticky;
-    background-color: #f39c34;
-    top: 9.5svh;
-    margin: 0 0 10px;
-    z-index: 1;
-    padding: 0 0.5em;
-}
-.menu {
-    display: flex;
-    overflow-x: scroll;
-    scrollbar-width: none;
-}
 
-.menu ul {
-    padding: 0.8em;
-    border-color: #333;
-    border-style: solid;
-    border-width: thin;
-    border-radius: 15px;
-    margin: 0.2em;
-}
-
-.menu a {
-    text-decoration: none;
-    color: #333;
-}
-
-.menu :target {
-    border-color: #a52710;
-}
- */
-
-/* HTML: <div class="loader"></div> */
-/* .loader {
-    width: 35px;
-    height: 80px;
-    position: relative;
-    align-items: center;
-    display: inline-block;
-  }
-  .loader:after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    padding: 3px 5px;
-    border-top: 1px solid #bbb6aa;
-    border-bottom: 4px solid #bbb6aa;
-    background: 
-      linear-gradient(#612329 0 0) bottom no-repeat content-box, 
-      #e4e0d7;
-    mix-blend-mode: darken;
-    animation: l1 4s linear;
-  }
-  .loader:before {
-    content: "";
-    position: absolute;
-    inset: -18px calc(50% - 2px) 8px;
-    background: #eb6b3e;   
-    transform-origin: bottom;
-    transform: rotate(8deg);
-  }
-  @keyframes l1 {
-   0%   {background-size: 100% 100%}
-   100% {background-size: 100% 5%}
-  } */
-
-  /* HTML: <div class="loader"></div> */
-.loader {
+  /* HTML: <div class="loader-ice"></div> */
+.loader-ice {
     width: 35px;
     height: 80px;
     position: relative;
@@ -319,7 +182,7 @@ img {
     display: inline-block;
     margin-bottom: 4vh;
   }
-  .loader:after {
+  .loader-ice:after {
     content: "";
     position: absolute;
     inset: 0 0 20px;
@@ -354,7 +217,7 @@ img {
     -webkit-mask-repeat: no-repeat;
     animation: l3 5s forwards ;
   }
-  .loader:before {
+  .loader-ice:before {
     content: "";
     position: absolute;
     inset: 50% calc(50% - 4px) 0;
@@ -375,8 +238,8 @@ img {
   }
   
 
-/* HTML: <div class="loader"></div> */
-.circle {
+/* HTML: <div class="loader-circle"></div> */
+.loader-circle {
     width: 50px;
     aspect-ratio: 1;
     border-radius: 50%;

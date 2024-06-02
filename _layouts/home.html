@@ -7,24 +7,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header class="trigger">
-      <!-- <div class="disappear">
-        <p class="disappear">Benvenuto alla</p>
-      </div> -->
+    <header>
       <div id="title">
-        <h1 id="logo" style="scroll-snap-align: center;">{{ site.title }}</h1>
-        <div class="disappear"><div class="circle"></div></div>
-        <p id="data" class="shrink">{{ page.title }}</p>
+        <h1 id="logo">{{ site.title }}</h1>
+        <p id="data">{{ page.title }}</p>
       </div>
-      <div class="disappear">
-        <div class="disappear loader"></div>
-        <!-- <p class="disappear" style="font-weight: normal;">{{ page.description }}</p>
-        <div class="numbers"></div> -->
     </header>
     <main>
-    <!-- <menu>
-      {% include menu.html %}
-    </menu> -->
         {{ content }}
     </main>
     <footer>
