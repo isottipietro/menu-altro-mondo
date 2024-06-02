@@ -429,4 +429,4 @@ img {
             mask-composite: intersect;
     animation: l5 1s infinite;
   }
-  @keyframes l5 {to{transform: rotate(.5turn)}}
+  @keyframes l5 {to{transform: rotate(1turn)}}
