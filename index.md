@@ -1,59 +1,125 @@
 ---
 layout: home
-title: Venerdì 9
-description: Entra nell'altro mondo e scopri la cena ghanese tra...
+title: Venerdì 7
+description: Scopri il menù dell'altro mondo tra...
 ---
 
 
-## Antipasti ##
-- **Bruschette al pomodoro** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
+## Cucina ##
+- **Ravioli street**
+
+  *Allergeni: Glutine, Uova e derivati, Latte e derivati*
+  - 4,00 €
+
+- **Mini caprese**
+
+  *Allergeni: Latte e derivati*
+  - 4,00 €
+
+- **Polpette tonno e lenticchie**
+
+  *Allergeni: Uova e derivati, Pesce e derivati*
+  - 4,00 €
+
+- **Gnocco fritto mortadella e formaggio**
+
+  *Allergeni: Glutine, Latte e derivati*
+  - 4,50 €
+
+- **Gnocco fritto mortadella**
 
   *Allergeni: Glutine*
-  - 8€
+  - 4,00 €
 
-- **Bruschette al sugo** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
+- **Gnocco fritto formaggio**
 
-  *Allergeni: Glutine*
-  - 12€
-
-- **Bruschette alla marmellata** - Pane tostato con pomodoro fresco, olio d'oliva e basilico
-
-  *Allergeni: Glutine*
-  - 5€
-
-## Primi Piatti ##
-- **Couscous alla marocchina** - Couscous con verdure e spezie tradizionali
-
-  *Allergeni: Glutine*
-  - 6€
-
-- **Couscous alla algerina** - Couscous con verdure e spezie tradizionali
+  *Allergeni, Glutine, Latte e derivati*
+  - 4,00 €
   
-  *Allergeni: Glutine*
-  - 99€
+## Panini ##
+- **Kebab**
 
-- **Couscous alla egiziana** - Couscous con verdure e spezie tradizionali
+  *Allergeni: Glutine, Latte e derivati, Semi di sesamo e derivati*
+  - 5,00 €
+
+- **Panino salamella e verdura**
+
+  *Allergeni: Glutine*
+  - 5,00 €
+
+- **Panino salamella**
+
+  *Allergeni: Glutine*
+  - 4,50 €
+
+- **Panino verdure**
+
+  *Allergeni: Glutine*
+  - 4,00 €
+
+- **Panino wurstel e verdura**
+
+  *Allergeni: Glutine*
+  - 5,00 €
+
+- **Panino wurstel**
+
+  *Allergeni: Glutine*
+  - 4,50 €
+
+- **Patatine**
+  - 3,00 €
+
+
+## Dolci ##
+- **Frutta**
+  - 3,50 €
+
+- **Baklava**
+
+  *Allergeni: Latte e derivati, Frutta a guscio e derivati*
+  - 3,00 €
+
+- **Torta Ucraina**
+
+  *Allergeni: Glutine*
+  - 3,00 €
+
+- **Biscotti Ucraina**
+
+  *Allergeni: Glutine*
+  - 3,00 €
+
+## Bevande ##
+- **Bicchiere di vino**
+  - 2,00 €
+
+- **Birra alla spina**
+  - 4,50 €
+
+- **Birra in bottiglia** - 33cl
+  - 4,50 €
+
+- **Birra in bottiglia** - 75cl
+  - 8,00 €
   
-  *Allergeni: Glutine*
-  - 1€
+- **Bottiglia di vino**
+  - 11,00 €
 
-## Secondi Piatti ##
-- **Pollo tandoori** - Pollo marinato in yogurt e spezie, cotto al forno
-  - Allergeni: Latte
+- **The**
+  - 3,00 €
 
-- **Mucca tandoori** - Pollo marinato in yogurt e spezie, cotto al forno
-  - Allergeni: Latte
+- **Bibita in vetro** - 0,33lt
+  - 2,50 €
 
-- **Pesce tandoori** - Pollo marinato in yogurt e spezie, cotto al forno
-  - Allergeni: Latte
+- **Bibita in lattina** - 0,33lt
+  - 2,50 €
 
-## Dolci
-- **Baklava** - Dolce a base di pasta fillo, noci e miele
-  - Allergeni: Glutine, Frutta a guscio
+- **Caffè**
+  - 1,00 €
 
-## Bevande
-- **Tè alla menta** - Bevanda rinfrescante a base di tè verde e menta
-  - Allergeni: Nessuno
+- **Amaro**
+  - 3,00 €
 
-- **Birra alla menta** - Bevanda rinfrescante a base di tè verde e menta
-  - Allergeni: Nessuno
+- **Bicchiere** - Cauzione
+  - 1,00 €
