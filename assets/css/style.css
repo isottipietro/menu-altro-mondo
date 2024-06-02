@@ -91,10 +91,10 @@ header p {
 }
 #title {
     display: flex;
-	flex-direction: column;
     width: 100%;
     align-items: center;
     text-shadow: 5px 2px 3px #333;
+    justify-content: space-between;
 }
 
 footer {
