@@ -123,5 +123,5 @@ description: Scopri il menù dell'altro mondo tra...
 
 - **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita
 
-Cauzione
+  Cauzione
   - 1,00 €
