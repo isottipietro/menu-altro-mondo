@@ -105,6 +105,11 @@ header p {
     max-width: 40%;
 }
 
+.overlap {
+    position: relative;
+    top: -20px;
+}
+
 .disappear {
     animation: disappear 1s ease-in-out forwards;
     animation-delay: 3s;
@@ -240,7 +245,7 @@ img {
     -webkit-mask-composite: destination-out;
     mask-composite: exclude,add,add,add,add,add,add,add,add;
     -webkit-mask-repeat: no-repeat;
-    animation: l3 5s forwards ;
+    animation: l3 4s forwards ;
   }
   .loader-ice:before {
     content: "";
