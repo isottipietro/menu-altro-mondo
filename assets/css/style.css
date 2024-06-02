@@ -75,6 +75,7 @@ banner {
     align-items: center;
     z-index: 100;
     height: 94svh;
+    justify-content: center;
 }
 
 em {
@@ -130,7 +131,7 @@ footer {
     border-top-color: #f39c34;
     animation: footer-color 1s linear forwards;
     animation-delay: 3s;
-    z-index: 2;
+    z-index: 200;
     background-color:#a52710;
     border-top-style: solid;
 }
