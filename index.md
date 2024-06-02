@@ -35,7 +35,7 @@ description: Scopri il menù dell'altro mondo tra...
 
   *Allergeni, Glutine, Latte e derivati*
   - 4,00 €
-  
+
 ## Panini ##
 - **Kebab**
 
@@ -121,5 +121,7 @@ description: Scopri il menù dell'altro mondo tra...
 - **Amaro**
   - 3,00 €
 
-- **Bicchiere** - Cauzione
+- **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita
+
+Cauzione
   - 1,00 €
