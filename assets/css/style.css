@@ -5,16 +5,16 @@
 @keyframes disappear {
 	from {
         opacity: 100%;
-        visibility: visible;
+        /* visibility: visible;
         height: auto;
-        margin: auto;
+        margin: auto; */
 	}
 	to {
         opacity: 0%;
-        visibility: hidden;
+        /* visibility: hidden;
         height: 0;
         margin: 0;
-        padding: 0;
+        padding: 0; */
 	}
 }
 
