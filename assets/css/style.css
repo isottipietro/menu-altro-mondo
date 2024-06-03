@@ -120,7 +120,7 @@ banner p {
 }
 
 .disappear {
-    animation: disappear 1s ease-in-out forwards;
+    animation: disappear 0.5s linear forwards;
     animation-delay: 3s;
     width: 100%;
     margin: 0;
