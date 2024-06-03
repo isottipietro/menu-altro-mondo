@@ -108,11 +108,15 @@ header p {
 banner p {
     text-align: center;
     font-size: 2em;
+    height: 50px;
 }
 
+#banner-loader {
+    margin-top: 2vh;
+}
 .overlap {
     position: relative;
-    top: -20px;
+    top: -130px;
 }
 
 .disappear {
@@ -275,7 +279,7 @@ img {
 
 /* HTML: <div class="loader-circle"></div> */
 .loader-circle {
-    width: 25vw;
+    height: 120px;
     aspect-ratio: 1;
     border-radius: 50%;
     padding: 6px;
