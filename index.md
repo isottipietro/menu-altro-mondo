@@ -4,6 +4,7 @@ title: Venerdì 7
 description: Scopri il menù dell'altro mondo tra...
 ---
 
+- *Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce  (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
 ## Cucina ##
 - **Ravioli street**

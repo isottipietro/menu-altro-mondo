@@ -30,10 +30,10 @@
 }
 
 html {
-    /*scroll-behavior: smooth;*/
+    scroll-behavior: smooth;
     scroll-padding-top: 8svh;
-    scroll-snap-type: y proximity;
-    scroll-snap-stop: always;
+    /* scroll-snap-type: y proximity;
+    scroll-snap-stop: always; */
   }
 
 body {
@@ -166,7 +166,7 @@ main h2 {
     color: #fff;
     padding: 1em 1.5em;
     margin: 0;
-    scroll-snap-align: start;
+    /* scroll-snap-align: start; */
 }
 
 ul {
@@ -279,6 +279,7 @@ img {
 
 /* HTML: <div class="loader-circle"></div> */
 .loader-circle {
+    opacity: 70%;
     height: 120px;
     aspect-ratio: 1;
     border-radius: 50%;
