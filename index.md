@@ -7,9 +7,9 @@ description: Scopri il menù dell'altro mondo tra...
 - *Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
 ## Cena ghana ##
-
+<div id="cena">
 *Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine*
-**<div style="text-align: right">15,00 €</div>**
+<div style="text-align: right">**15,00 €**</div></div>
   
 - **Omo tuo** - Palla di riso thai aromatico lavorato
 
