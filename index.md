@@ -4,46 +4,51 @@ title: Venerdì 7
 description: Scopri il menù dell'altro mondo tra...
 ---
 
-- *Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce  (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
+- *Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
 ## Cucina ##
-- **Ravioli street**
+- **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
+
+  *Allergeni: Glutine, Uova e derivati*
+  - 4,00 €
+
+- **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
 
   *Allergeni: Glutine, Uova e derivati, Latte e derivati*
   - 4,00 €
 
-- **Mini caprese**
+- **Caprese con mozzarella di bufala di Liberaterra 100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO. 
 
   *Allergeni: Latte e derivati*
   - 4,00 €
 
-- **Polpette tonno e lenticchie**
+- **Mix di polpette tonno e lenticchie** - Polpette di tonno: Tonno, peperoncino, cipolla, uovo, pan grattato. Polpette di lenticchie: Lenticchie, peperoncino, cipolla, zenzero, aglio.
 
   *Allergeni: Uova e derivati, Pesce e derivati*
   - 4,00 €
 
-- **Gnocco fritto mortadella e formaggio**
+- **Gnocco fritto mortadella e squaquerone** - Farina, sale, mortadella, formaggio squaquerone, olio.
 
   *Allergeni: Glutine, Latte e derivati*
   - 4,50 €
 
-- **Gnocco fritto mortadella**
+- **Gnocco fritto mortadella** - Farina, sale, mortadella, olio.
 
   *Allergeni: Glutine*
   - 4,00 €
 
-- **Gnocco fritto formaggio**
+- **Gnocco fritto squaquerone** - Farina, sale, formaggio squaquerone, olio.
 
   *Allergeni, Glutine, Latte e derivati*
   - 4,00 €
 
 ## Panini ##
-- **Kebab**
+- **Kebab** - Pane, carne, verdure, salse.
 
   *Allergeni: Glutine, Latte e derivati, Semi di sesamo e derivati*
   - 5,00 €
 
-- **Panino salamella e verdura**
+- **Panino salamella e verdure grigliate**
 
   *Allergeni: Glutine*
   - 5,00 €
@@ -53,12 +58,12 @@ description: Scopri il menù dell'altro mondo tra...
   *Allergeni: Glutine*
   - 4,50 €
 
-- **Panino verdure**
+- **Panino verdure grigliate**
 
   *Allergeni: Glutine*
   - 4,00 €
 
-- **Panino wurstel e verdura**
+- **Panino wurstel e verdure grigliate**
 
   *Allergeni: Glutine*
   - 5,00 €
@@ -73,22 +78,17 @@ description: Scopri il menù dell'altro mondo tra...
 
 
 ## Dolci ##
-- **Frutta**
-  - 3,50 €
+- **Frutta** - Albicocche, melone, ciliegie.
+  - 3,00 €
 
-- **Baklava**
+- **Baklava** - Pasta fillo, burro, miele, zucchero, pistacchio.
 
   *Allergeni: Latte e derivati, Frutta a guscio e derivati*
   - 3,00 €
 
-- **Torta Ucraina**
+- **Tort z nalysnykiv (dolce ucraino)** - Latte, uova, zucchero, farina, lievito, panna, cacao, cioccolato, gelatina, fiocchi di latte, pesche, kiwi
 
-  *Allergeni: Glutine*
-  - 3,00 €
-
-- **Biscotti Ucraina**
-
-  *Allergeni: Glutine*
+  *Allergeni: Glutine, Latte e derivati, Uova e derivati, Frutta a guscio e derivati*
   - 3,00 €
 
 ## Bevande ##
