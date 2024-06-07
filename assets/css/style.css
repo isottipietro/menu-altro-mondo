@@ -161,6 +161,12 @@ main {
     margin-top: 8svh;
 }
 
+main p {
+    background-color: #81744bc9;
+    color: #fff;
+    margin: 0;
+    padding: 1em 1.5em;
+}
 main h2 {
     background-color: #81744bc9;
     color: #fff;
