@@ -8,8 +8,8 @@ description: Scopri il menù dell'altro mondo tra...
 
 ## Cena ghana ##
 <div id="cena">
-*Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine*
-<div style="text-align: right">**15,00 €**</div></div>
+Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine
+<div id="cena2">15,00 €</div></div>
   
 - **Omo tuo** - Palla di riso thai aromatico lavorato
 
