@@ -1,53 +1,43 @@
 ---
 layout: home
-title: Venerdì 7
+title: Sabato 8
 description: Scopri il menù dell'altro mondo tra...
 ---
 
 - *AVVISO: Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
+## Sapori dal Ghana ##
+<div id="cena">
+Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine
+<div id="cena2">15,00 €</div></div>
+  
+- **Omo tuo** - Palla di riso thai aromatico lavorato
+
+- **Nkate nkwan** - Stufato di carne: angello, pollo, manzo, burro di arachidi, cipolla, carota, peperone, pomodoro, manioca, cipollotto, zenzero.
+
+- **Koose** - Frittelle di fagioli: fagioli con l'occhio, uovo, cipolla, scalogno, peperoncino, zenzero.
+
+- **Gari biscuit** - Farina di manioca e di grano, uovo, burro, zucchero
+
+- **The nero**
+
 ## Cucina ##
-- **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
-
-  *Allergeni: Glutine, Uova e derivati*
-  - 4,00 €
-
-- **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
-
-  *Allergeni: Glutine, Uova e derivati, Latte e derivati*
-  - 4,00 €
-
-- **Caprese con mozzarella di bufala di Liberaterra 100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO. 
-
-  *Allergeni: Latte e derivati*
-  - 4,00 €
-
-- **Mix di polpette tonno e lenticchie** - Polpette di tonno: Tonno, peperoncino, cipolla, uovo, pan grattato. Polpette di lenticchie: Lenticchie, peperoncino, cipolla, zenzero, aglio.
-
-  *Allergeni: Uova e derivati, Pesce e derivati*
-  - 4,00 €
-
-- **Gnocco fritto mortadella e squaquerone** - Farina, sale, mortadella, formaggio squaquerone, olio.
+- **Pasta alla Norma con ricotta salata** - Farina di semola, pomodoro, melanzane, basilico, olio EVO, sul top ricotta salata di pecora grattugiata.
 
   *Allergeni: Glutine, Latte e derivati*
-  - 4,50 €
+  - 6,00 €
 
-- **Gnocco fritto mortadella** - Farina, sale, mortadella, olio.
+- **Pasta alla Norma** - Farina di semola, pomodoro, melanzane, basilico, olio EVO.
 
   *Allergeni: Glutine*
-  - 4,00 €
+  - 6,00 €
 
-- **Gnocco fritto squaquerone** - Farina, sale, formaggio squaquerone, olio.
+- **Gran Caprese con 2 mozzarelle di bufala di Liberaterra 100+100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO.
 
-  *Allergeni, Glutine, Latte e derivati*
-  - 4,00 €
+  *Allergeni: Latte e derivati*
+  - 7,00 €
 
 ## Panini ##
-- **Kebab** - Pane, carne, verdure, salse.
-
-  *Allergeni: Glutine, Latte e derivati, Semi di sesamo e derivati*
-  - 5,00 €
-
 - **Panino salamella e verdure grigliate**
 
   *Allergeni: Glutine*
@@ -81,14 +71,9 @@ description: Scopri il menù dell'altro mondo tra...
 - **Frutta** - Albicocche, melone, ciliegie.
   - 3,00 €
 
-- **Baklava** - Pasta fillo, burro, miele, zucchero, pistacchio.
+- **Dolce della casa**
 
-  *Allergeni: Latte e derivati, Frutta a guscio e derivati*
-  - 3,00 €
-
-- **Tort z nalysnykiv (dolce ucraino)** - Latte, uova, zucchero, farina, lievito, panna, cacao, cioccolato, gelatina, fiocchi di latte, pesche, kiwi
-
-  *Allergeni: Glutine, Latte e derivati, Uova e derivati, Frutta a guscio e derivati*
+  *Allergeni: Glutine, Latte e derivati, Frutta a guscio e derivati, Uova e derivati*
   - 3,00 €
 
 ## Bevande ##
