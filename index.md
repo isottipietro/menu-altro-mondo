@@ -1,41 +1,53 @@
 ---
 layout: home
-title: Domenica 9
+title: Venerdì 6
 description: Scopri il menù dell'altro mondo tra...
 ---
 
 - *AVVISO: Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
-## Sapori dal Brasile ##
-<div id="cena">
-Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine
-<div id="cena2">15,00 €</div></div>
-  
-- **Coxinha** - Polpette di pollo fritte: burro, farina, latte, petto di pollo, cipolla, paprika, uovo, pangrattato.
-
-- **Vaca Atolada** - Carne biancostato, manioca, aglio, cipolla, pomodorini.
-
-- **Riso basmati**
-
-- **Brigadeiro** - Latte condensato, burro, panna, cacao amaro, cioccolato
-
 ## Cucina ##
-- **Pasta alla Norma con ricotta salata** - Farina di semola, pomodoro, melanzane, basilico, olio EVO, sul top ricotta salata di pecora grattugiata.
+- **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
 
-  *Allergeni: Glutine, Latte e derivati*
-  - 6,00 €
+  *Allergeni: Glutine, Uova e derivati*
+  - 4,00 €
 
-- **Pasta alla Norma** - Farina di semola, pomodoro, melanzane, basilico, olio EVO.
+- **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
 
-  *Allergeni: Glutine*
-  - 6,00 €
+  *Allergeni: Glutine, Uova e derivati, Latte e derivati*
+  - 4,00 €
 
-- **Gran Caprese con 2 mozzarelle di bufala di Liberaterra 100+100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO.
+- **Caprese con mozzarella di bufala di Liberaterra 100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO. 
 
   *Allergeni: Latte e derivati*
-  - 7,00 €
+  - 4,00 €
+
+- **Mix di polpette tonno e lenticchie** - Polpette di tonno: Tonno, peperoncino, cipolla, uovo, pan grattato. Polpette di lenticchie: Lenticchie, peperoncino, cipolla, zenzero, aglio.
+
+  *Allergeni: Uova e derivati, Pesce e derivati*
+  - 4,00 €
+
+- **Gnocco fritto mortadella e squaquerone** - Farina, sale, mortadella, formaggio squaquerone, olio.
+
+  *Allergeni: Glutine, Latte e derivati*
+  - 4,50 €
+
+- **Gnocco fritto mortadella** - Farina, sale, mortadella, olio.
+
+  *Allergeni: Glutine*
+  - 4,00 €
+
+- **Gnocco fritto squaquerone** - Farina, sale, formaggio squaquerone, olio.
+
+  *Allergeni, Glutine, Latte e derivati*
+  - 4,00 €
 
 ## Panini ##
+- **Kebab** - Pane, carne, verdure, salse.
+
+  *Allergeni: Glutine, Latte e derivati, Semi di sesamo e derivati*
+  - 5,00 €
+
 - **Panino salamella e verdure grigliate**
 
   *Allergeni: Glutine*
@@ -69,46 +81,51 @@ Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine
 - **Frutta** - Albicocche, melone, ciliegie.
   - 3,00 €
 
-- **Dolce della casa**
+- **Baklava** - Pasta fillo, burro, miele, zucchero, pistacchio.
 
-  *Allergeni: Glutine, Latte e derivati, Frutta a guscio e derivati, Uova e derivati*
+  *Allergeni: Latte e derivati, Frutta a guscio e derivati*
+  - 3,00 €
+
+- **Tort z nalysnykiv (dolce ucraino)** - Latte, uova, zucchero, farina, lievito, panna, cacao, cioccolato, gelatina, fiocchi di latte, pesche, kiwi
+
+  *Allergeni: Glutine, Latte e derivati, Uova e derivati, Frutta a guscio e derivati*
   - 3,00 €
 
 ## Bevande ##
 - **Bicchiere di vino**
-  - 2,00 €
+  <!-- - 2,00 € -->
 
 - **Birra alla spina**
-  - 4,50 €
+  <!-- - 4,50 € -->
 
 - **Birra in bottiglia** - 33cl
-  - 4,50 €
+  <!-- - 4,50 € -->
 
 - **Birra in bottiglia** - 75cl
-  - 8,00 €
+  <!-- - 8,00 € -->
   
 - **Bottiglia di vino**
-  - 11,00 €
+  <!-- - 11,00 € -->
 
 - **The**
-  - 3,00 €
+  <!-- - 3,00 € -->
 
 - **Bibita in bottiglia** - 0,75lt
-  - 5,00 €
+  <!-- - 5,00 € -->
 
 - **Bibita in vetro** - 0,33lt
-  - 2,50 €
+  <!-- - 2,50 € -->
 
 - **Bibita in lattina** - 0,33lt
-  - 2,50 €
+  <!-- - 2,50 € -->
 
 - **Caffè**
-  - 1,00 €
+  <!-- - 1,00 € -->
 
 - **Amaro**
-  - 3,00 €
+  <!-- - 3,00 € -->
 
 - **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita
-
+<!-- 
   Cauzione
-  - 1,00 €
+  - 1,00 € -->
