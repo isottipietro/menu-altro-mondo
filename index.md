@@ -1,25 +1,22 @@
 ---
 layout: home
-title: Domenica 8
+title: Venerdì 6
 description: Scopri il menù dell'altro mondo tra...
 ---
 
 - *AVVISO: Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
-## Sapori dal Libano e Palestina ##
-<div id="cena">
-Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine, Sesamo
-<div id="cena2"></div></div>
-  
-- **Kaftah** - POLPETTE ALLA LIBANESE CON RISO BASMATI: Carne macinata, cipolla, prezzemolo, pomodoro, peperoni, mix di spezie.
-
-- **Hummus** - SALSINA DI CECI: ceci, tahina, aglio, limone, olio.
-
-- **Patate al coriandolo** - Patate, coriandolo, olio, peperoncino, aglio.
-
-- **Dolci libanesi** - HALAWET EL JIBN: mozzarella, semolino, zucchero. Crema con latte, aceto, amido di mais e zucchero. MA'AMOUL BIL TAMER: Biscotti ripieni con datteri, semola, burro, zucchero, latte, acqua di rose, cannella.
-
 ## Cucina ##
+- **Mix di polpette tonno e lenticchie** - Polpette di tonno: Tonno, peperoncino, cipolla, uovo, pan grattato. Polpette di lenticchie: Lenticchie, peperoncino, cipolla, zenzero, aglio.
+
+  *Allergeni: Uova e derivati, Pesce e derivati*
+  <!-- - 4,00 € -->
+
+- **Persian Tahchin** - TORTINO DI POLLO, RISO BASMATI E YOGURT: Pollo, uova, cannella, cipolla, curcuma, riso basmati, yogurt, burro, zafferano, acqua di rose, cardamomo. Salsa: pesta di melograno, prugne secche, olio, cipolla, crespino, pomodoro. Top: pistacchio, mandorle.
+
+  *Allergeni: Latte e derivati*
+  <!-- - 4,50 € -->  
+
 - **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
 
   *Allergeni: Glutine, Uova e derivati*
@@ -30,10 +27,10 @@ Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine, Sesa
   *Allergeni: Glutine, Uova e derivati, Latte e derivati*
   <!-- - 4,00 € -->
 
-- **Gran Caprese con 2 mozzarelle di bufala di Liberaterra 100+100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO.
+- **Caprese con mozzarella di bufala di Liberaterra 100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO. 
 
   *Allergeni: Latte e derivati*
-  <!-- - 7,00 € -->
+  <!-- - 4,00 € -->
 
 - **Insalata di fatto con verdure** - Farro perlato, cipolle, melanzane, peperoni, zucchine, limone, olio EVO, aglio, salvia, rosmarino, aceto di mele, top di granella di mandorle.
 
@@ -41,6 +38,11 @@ Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine, Sesa
   <!-- - 4,00 € -->
 
 ## Panini ##
+- **Kebab** - Pane, carne, verdure, salse.
+
+  *Allergeni: Glutine, Latte e derivati, Semi di sesamo e derivati*
+  <!-- - 5,00 € -->
+
 - **Panino salamella e verdure grigliate**
 
   *Allergeni: Glutine*
@@ -71,12 +73,12 @@ Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine, Sesa
 
 
 ## Dolci ##
-- **Frutta BIO** - Coppa con melone, albicocche e anguria.
+- **Frutta** - Coppa con melone, albicocche e anguria.
   <!-- - 3,00 € -->
 
-- **Torte artigianali di mele o crostate di frutta** - Farina, latte, burro, uova, lievito, yogurt, zucchero, mele, composte di frutta, possibile frutta a guscio
+- **Brigadeiro** - Dolce brasiliano con latte condensato, burro, panna, cacao amaro, cioccolato.
 
-  *Allergeni: Glutine, Latte e derivati, Frutta a guscio e derivati, Uova e derivati*
+  *Allergeni: Latte e derivati, Frutta a guscio e derivati*
   <!-- - 3,00 € -->
 
 ## Bevande ##
@@ -115,5 +117,4 @@ Allergeni: Uova e derivati, Arachidi e derivati, Latte e derivati, Glutine, Sesa
 
 - **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita
 
-  <!-- Cauzione -->
-  <!-- - 1,00 € -->
+<!-- Cauzione - 1,00 € -->
