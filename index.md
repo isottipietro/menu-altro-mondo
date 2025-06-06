@@ -32,7 +32,7 @@ description: Scopri il menù dell'altro mondo tra...
   *Allergeni: Latte e derivati*
   <!-- - 4,00 € -->
 
-- **Insalata di fatto con verdure** - Farro perlato, cipolle, melanzane, peperoni, zucchine, limone, olio EVO, aglio, salvia, rosmarino, aceto di mele, top di granella di mandorle.
+- **Insalata di farro con verdure** - Farro perlato, cipolle, melanzane, peperoni, zucchine, limone, olio EVO, aglio, salvia, rosmarino, aceto di mele, top di granella di mandorle.
 
   *Allergeni: Glutine, Frutta a guscio*
   <!-- - 4,00 € -->
