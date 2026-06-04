@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Venerdì 6
+title: Venerdì 5
 description: Scopri il menù dell'altro mondo tra...
 ---
 
