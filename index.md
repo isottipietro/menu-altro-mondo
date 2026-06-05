@@ -7,114 +7,56 @@ description: Scopri il menù dell'altro mondo tra...
 - *AVVISO: Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
 ## Cucina ##
-- **Mix di polpette tonno e lenticchie** - Polpette di tonno: Tonno, peperoncino, cipolla, uovo, pan grattato. Polpette di lenticchie: Lenticchie, peperoncino, cipolla, zenzero, aglio.
 
-  *Allergeni: Uova e derivati, Pesce e derivati*
-  <!-- - 4,00 € -->
+- **Rou Jia Mo** - Pane, carne di maiale, cipollotto, aglio, cumino, cannella, stelle d'anice, salse di soia, vino di riso, olio EVO.
 
-- **Persian Tahchin** - TORTINO DI POLLO, RISO BASMATI E YOGURT: Pollo, uova, cannella, cipolla, curcuma, riso basmati, yogurt, burro, zafferano, acqua di rose, cardamomo. Salsa: pesta di melograno, prugne secche, olio, cipolla, crespino, pomodoro. Top: pistacchio, mandorle.
+  *Allergeni: Glutine (pane), Soia (salsa di soia)* 
+  - **Polpette bangla di lenticchie (Dhal er bora)** - Lenticche, peperoncino, cipolla, zenzero, aglio.
 
-  *Allergeni: Latte e derivati*
-  <!-- - 4,50 € -->  
+  *Allergeni: Nessun allergene “principale” evidente (attenzione possibile contaminazione)* 
+  - **Persian Tahchin** - TORTINO DI POLLO, RISO BASMATI E YOGURT: Pollo, uova, canella, cipolla, curcuma, riso basmati, yogurt, burro, zafferano, acqua di rose, cardamomo. Salsa: pasta di melograno, prugne secche, olio, cipolla, crespino, pomodoro. Top: pistacchio, mandorle.
 
-- **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
+  *Allergeni: Uova, Latte (yogurt, burro), Frutta a guscio (pistacchi, mandorle)* 
+  - **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
 
-  *Allergeni: Glutine, Uova e derivati*
-  <!-- - 4,00 € -->
+  *Allergeni: Glutine (semola), Latte (pecorino, parmigiano)* 
+  - **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
 
-- **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino, pomodoro, cipolla, basilico, olio EVO, parmigiano reggiano, sale.
+  *Allergeni: Glutine (semola), Latte (pecorino, parmigiano)* 
+  - **Spiedini di caprese** - Mozzarella di bufala di Libera (100 gr), pomodoro, basilico, olio EVO.
 
-  *Allergeni: Glutine, Uova e derivati, Latte e derivati*
-  <!-- - 4,00 € -->
+  *Allergeni: Latte (mozzarella)* 
+  - **Hummus con crudité** - Ceci, tahina (crema di sesamo), aglio, prezzemolo, limone, paprika. Carote e sedano.
 
-- **Caprese con mozzarella di bufala di Liberaterra 100gr** - Mozzarella di bufala, pomodoro, basilico, olio EVO. 
+  *Allergeni: Sesamo (tahina)* 
+  ## Panini ##
 
-  *Allergeni: Latte e derivati*
-  <!-- - 4,00 € -->
+- **Panino con pulled pork vegano** - Straccetti di soia, olio di girasole, aglio, salsa tamari, salsa barbeque, paprika, mix di spezie, insalata iceberg[cite: 94]. Maionese vegana: olio di girasole, soia, senape, limone, curcuma.
 
-- **Insalata di farro con verdure** - Farro perlato, cipolle, melanzane, peperoni, zucchine, limone, olio EVO, aglio, salvia, rosmarino, aceto di mele, top di granella di mandorle.
+  *Allergeni: Soia (straccetti di soia, tamari, maionese), Senape (maionese vegana)* 
+  - **Panini con salamella / würstel / verdure grigliate** - Opzioni disponibili: salamella e verdure grill, würstel e verdure grill.
 
-  *Allergeni: Glutine, Frutta a guscio*
-  <!-- - 4,00 € -->
+  *Allergeni: Glutine (pane). Possibile: latte, uova, senape (in salse o wurstel)* 
 
-## Panini ##
-- **Kebab** - Pane, carne, verdure, salse.
+- **Patatine fritte** - Patate fritte vegetariane servite con maionese o ketchup.
 
-  *Allergeni: Glutine, Latte e derivati, Semi di sesamo e derivati*
-  <!-- - 5,00 € -->
+  *Allergeni: Nessun allergene principale (ma: uova / senape con maionese)* 
+  ## Dolci ##
 
-- **Panino salamella e verdure grigliate**
+- **Macedonia** - Mele, pesche, albicocche, banana, miele, uvetta, limone.
 
-  *Allergeni: Glutine*
-  <!-- - 5,00 € -->
+  *Allergeni: Nessun allergene principale (nota: presenza di miele → non vegano, ma non allergene UE)* 
+  ## Bevande ##
 
-- **Panino salamella**
-
-  *Allergeni: Glutine*
-  <!-- - 4,50 € -->
-
-- **Panino verdure grigliate**
-
-  *Allergeni: Glutine*
-  <!-- - 4,00 € -->
-
-- **Panino wurstel e verdure grigliate**
-
-  *Allergeni: Glutine*
-  <!-- - 5,00 € -->
-
-- **Panino wurstel**
-
-  *Allergeni: Glutine*
-  <!-- - 4,50 € -->
-
-- **Patatine fritte** con maionese o ketchup
-  <!-- - 3,00 € -->
-
-
-## Dolci ##
-- **Frutta** - Coppa con melone, albicocche e anguria.
-  <!-- - 3,00 € -->
-
-- **Brigadeiro** - Dolce brasiliano con latte condensato, burro, panna, cacao amaro, cioccolato.
-
-  *Allergeni: Latte e derivati, Frutta a guscio e derivati*
-  <!-- - 3,00 € -->
-
-## Bevande ##
 - **Bicchiere di vino**
-  <!-- - 2,00 € -->
-
-- **Birra alla spina**
-  <!-- - 4,50 € -->
-
-- **Birra in bottiglia** - 33cl
-  <!-- - 4,50 € -->
-
-- **Birra in bottiglia** - 75cl
-  <!-- - 8,00 € -->
-  
-- **Bottiglia di vino**
-  <!-- - 11,00 € -->
-
-- **The**
-  <!-- - 3,00 € -->
-
-- **Bibita in bottiglia** - 0,75lt
-  <!-- - 5,00 € -->
-
-- **Bibita in vetro** - 0,33lt
-  <!-- - 2,50 € -->
-
-- **Bibita in lattina** - 0,33lt
-  <!-- - 2,50 € -->
-
-- **Caffè**
-  <!-- - 1,00 € -->
-
-- **Amaro**
-  <!-- - 3,00 € -->
-
-- **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita
-
-<!-- Cauzione - 1,00 € -->
+  - **Birra alla spina**
+  - **Birra in bottiglia** - 33cl
+  - **Birra in bottiglia** - 75cl
+  - **Bottiglia di vino**
+  - **The**
+  - **Bibita in bottiglia** - 0,75lt
+  - **Bibita in vetro** - 0,33lt
+  - **Bibita in lattina** - 0,33lt
+  - **Caffè**
+  - **Amaro**
+  - **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita.
