@@ -11,52 +11,62 @@ description: Scopri il menù dell'altro mondo tra...
 - **Rou Jia Mo** - Pane, carne di maiale, cipollotto, aglio, cumino, cannella, stelle d'anice, salse di soia, vino di riso, olio EVO.
 
   *Allergeni: Glutine (pane), Soia (salsa di soia)* 
-  - **Polpette bangla di lenticchie (Dhal er bora)** - Lenticche, peperoncino, cipolla, zenzero, aglio.
+
+- **Polpette bangla di lenticchie (Dhal er bora)** - Lenticche, peperoncino, cipolla, zenzero, aglio.
 
   *Allergeni: Nessun allergene “principale” evidente (attenzione possibile contaminazione)* 
-  - **Persian Tahchin** - TORTINO DI POLLO, RISO BASMATI E YOGURT: Pollo, uova, canella, cipolla, curcuma, riso basmati, yogurt, burro, zafferano, acqua di rose, cardamomo. Salsa: pasta di melograno, prugne secche, olio, cipolla, crespino, pomodoro. Top: pistacchio, mandorle.
+
+- **Persian Tahchin** - TORTINO DI POLLO, RISO BASMATI E YOGURT: Pollo, uova, canella, cipolla, curcuma, riso basmati, yogurt, burro, zafferano, acqua di rose, cardamomo. Salsa: pasta di melograno, prugne secche, olio, cipolla, crespino, pomodoro. Top: pistacchio, mandorle.
 
   *Allergeni: Uova, Latte (yogurt, burro), Frutta a guscio (pistacchi, mandorle)* 
-  - **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
+
+- **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
 
   *Allergeni: Glutine (semola), Latte (pecorino, parmigiano)* 
-  - **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
+
+- **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
 
   *Allergeni: Glutine (semola), Latte (pecorino, parmigiano)* 
-  - **Spiedini di caprese** - Mozzarella di bufala di Libera (100 gr), pomodoro, basilico, olio EVO.
+
+- **Spiedini di caprese** - Mozzarella di bufala di Libera (100 gr), pomodoro, basilico, olio EVO.
 
   *Allergeni: Latte (mozzarella)* 
-  - **Hummus con crudité** - Ceci, tahina (crema di sesamo), aglio, prezzemolo, limone, paprika. Carote e sedano.
+
+- **Hummus con crudité** - Ceci, tahina (crema di sesamo), aglio, prezzemolo, limone, paprika. Carote e sedano.
 
   *Allergeni: Sesamo (tahina)* 
-  ## Panini ##
+
+## Panini ##
 
 - **Panino con pulled pork vegano** - Straccetti di soia, olio di girasole, aglio, salsa tamari, salsa barbeque, paprika, mix di spezie, insalata iceberg[cite: 94]. Maionese vegana: olio di girasole, soia, senape, limone, curcuma.
 
   *Allergeni: Soia (straccetti di soia, tamari, maionese), Senape (maionese vegana)* 
-  - **Panini con salamella / würstel / verdure grigliate** - Opzioni disponibili: salamella e verdure grill, würstel e verdure grill.
+
+- **Panini con salamella / würstel / verdure grigliate** - Opzioni disponibili: salamella e verdure grill, würstel e verdure grill.
 
   *Allergeni: Glutine (pane). Possibile: latte, uova, senape (in salse o wurstel)* 
 
 - **Patatine fritte** - Patate fritte vegetariane servite con maionese o ketchup.
 
   *Allergeni: Nessun allergene principale (ma: uova / senape con maionese)* 
-  ## Dolci ##
+
+## Dolci ##
 
 - **Macedonia** - Mele, pesche, albicocche, banana, miele, uvetta, limone.
 
   *Allergeni: Nessun allergene principale (nota: presenza di miele → non vegano, ma non allergene UE)* 
-  ## Bevande ##
+
+## Bevande ##
 
 - **Bicchiere di vino**
-  - **Birra alla spina**
-  - **Birra in bottiglia** - 33cl
-  - **Birra in bottiglia** - 75cl
-  - **Bottiglia di vino**
-  - **The**
-  - **Bibita in bottiglia** - 0,75lt
-  - **Bibita in vetro** - 0,33lt
-  - **Bibita in lattina** - 0,33lt
-  - **Caffè**
-  - **Amaro**
-  - **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita.
+- **Birra alla spina**
+- **Birra in bottiglia** - 33cl
+- **Birra in bottiglia** - 75cl
+- **Bottiglia di vino**
+- **The**
+- **Bibita in bottiglia** - 0,75lt
+- **Bibita in vetro** - 0,33lt
+- **Bibita in lattina** - 0,33lt
+- **Caffè**
+- **Amaro**
+- **L'altro bicchiere** - Il nostro bicchiere è lavabile e riutilizzabile per ridurre al minimo gli sprechi. Potrai avere il tuo con una piccola cauzione, e poi decidere se tenerlo o riconsegnarlo per dargli una nuova vita.
