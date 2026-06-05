@@ -9,49 +9,43 @@ description: Scopri il menù dell'altro mondo tra...
 ## Cucina ##
 - **Rou Jia Mo** - Pane, carne di maiale, cipollotto, aglio, cumino, cannella, stelle d'anice, salse di soia, vino di riso, olio EVO.
 
-  *Allergeni: Glutine (pane), Soia (salsa di soia)* 
+  *Allergeni: Glutine, Soia* 
 
-- **Polpette bangla di lenticchie (Dhal er bora)** - Lenticche, peperoncino, cipolla, zenzero, aglio.
-
-  *Allergeni: Nessun allergene “principale” evidente (attenzione possibile contaminazione)* 
+- **Polpette bangla di lenticchie (Dhal er bora)** - Lenticche, peperoncino, cipolla, zenzero, aglio. 
 
 - **Persian Tahchin** - TORTINO DI POLLO, RISO BASMATI E YOGURT: Pollo, uova, canella, cipolla, curcuma, riso basmati, yogurt, burro, zafferano, acqua di rose, cardamomo. Salsa: pasta di melograno, prugne secche, olio, cipolla, crespino, pomodoro. Top: pistacchio, mandorle.
 
-  *Allergeni: Uova, Latte (yogurt, burro), Frutta a guscio (pistacchi, mandorle)* 
+  *Allergeni: Uova, Latte, Frutta a guscio* 
 
 - **Ravioli patate e pecorino al pomodoro** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
 
-  *Allergeni: Glutine (semola), Latte (pecorino, parmigiano)* 
+  *Allergeni: Glutine, Latte* 
 
 - **Ravioli patate e pecorino all'olio EVO e parmigiano** - Farina di semola, patate, pecorino. Pomodoro, cipolle, basilico, olio EVO, parmigiano reggiano, sale.
 
-  *Allergeni: Glutine (semola), Latte (pecorino, parmigiano)* 
+  *Allergeni: Glutine, Latte* 
 
 - **Spiedini di caprese** - Mozzarella di bufala di Libera (100 gr), pomodoro, basilico, olio EVO.
 
-  *Allergeni: Latte (mozzarella)* 
+  *Allergeni: Latte* 
 
 - **Hummus con crudité** - Ceci, tahina (crema di sesamo), aglio, prezzemolo, limone, paprika. Carote e sedano.
 
-  *Allergeni: Sesamo (tahina)* 
+  *Allergeni: Sesamo* 
 
 ## Panini ##
 - **Panino con pulled pork vegano** - Straccetti di soia, olio di girasole, aglio, salsa tamari, salsa barbeque, paprika, mix di spezie, insalata iceberg[cite: 94]. Maionese vegana: olio di girasole, soia, senape, limone, curcuma.
 
-  *Allergeni: Soia (straccetti di soia, tamari, maionese), Senape (maionese vegana)* 
+  *Allergeni: Soia, Senape* 
 
 - **Panini con salamella / würstel / verdure grigliate** - Opzioni disponibili: salamella e verdure grill, würstel e verdure grill.
 
-  *Allergeni: Glutine (pane). Possibile: latte, uova, senape (in salse o wurstel)* 
+  *Allergeni: Glutine. Possibile: latte, uova, senape (in salse o wurstel)* 
 
 - **Patatine fritte** - Patate fritte vegetariane servite con maionese o ketchup.
 
-  *Allergeni: Nessun allergene principale (ma: uova / senape con maionese)* 
-
 ## Dolci ##
 - **Macedonia** - Mele, pesche, albicocche, banana, miele, uvetta, limone.
-
-  *Allergeni: Nessun allergene principale (nota: presenza di miele → non vegano, ma non allergene UE)* 
 
 ## Bevande ##
 - **Bicchiere di vino**
