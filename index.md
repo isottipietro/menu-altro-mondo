@@ -7,7 +7,6 @@ description: Scopri il menù dell'altro mondo tra...
 - *AVVISO: Si premette che la nostra attività elabora e somministra, usando un’unico laboratorio e un’unica dispensa, prodotti di gastronomia di diverse specie, non destinati ad alimenti particolari per popolazioni allergiche ed intolleranti. Tutti i prodotti/pietanze possono contenere, come ingrediente o in tracce (in quanto lavorati presso lo stesso laboratorio), le seguenti sostanze o loro prodotti derivati: cereali contenenti glutine (grano, segale, orzo, avena, farro, kamut o loro ceppi ibridati), arachidi, soia, lupino, frutta a guscio, sedano, senape, semi di sesamo, pesce, crostacei, molluschi, latte, uova, anidride solforosa e solfiti in concentrazioni superiori a 10 mg/kg.*
 
 ## Cucina ##
-
 - **Rou Jia Mo** - Pane, carne di maiale, cipollotto, aglio, cumino, cannella, stelle d'anice, salse di soia, vino di riso, olio EVO.
 
   *Allergeni: Glutine (pane), Soia (salsa di soia)* 
@@ -37,7 +36,6 @@ description: Scopri il menù dell'altro mondo tra...
   *Allergeni: Sesamo (tahina)* 
 
 ## Panini ##
-
 - **Panino con pulled pork vegano** - Straccetti di soia, olio di girasole, aglio, salsa tamari, salsa barbeque, paprika, mix di spezie, insalata iceberg[cite: 94]. Maionese vegana: olio di girasole, soia, senape, limone, curcuma.
 
   *Allergeni: Soia (straccetti di soia, tamari, maionese), Senape (maionese vegana)* 
@@ -51,13 +49,11 @@ description: Scopri il menù dell'altro mondo tra...
   *Allergeni: Nessun allergene principale (ma: uova / senape con maionese)* 
 
 ## Dolci ##
-
 - **Macedonia** - Mele, pesche, albicocche, banana, miele, uvetta, limone.
 
   *Allergeni: Nessun allergene principale (nota: presenza di miele → non vegano, ma non allergene UE)* 
 
 ## Bevande ##
-
 - **Bicchiere di vino**
 - **Birra alla spina**
 - **Birra in bottiglia** - 33cl
